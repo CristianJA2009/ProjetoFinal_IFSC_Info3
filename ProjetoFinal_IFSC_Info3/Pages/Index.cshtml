@@ -1,7 +1,7 @@
 ﻿@page
 @model IndexModel
 @{
-    Layout = null;
+    Layout = "~/Pages/Shared/_Layout.cshtml";
     ViewData["Title"] = "Home page";
 }
 
@@ -10,15 +10,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legends Store - Página Inicial</title>
+    <title>Login - Legends Store</title>
 </head>
 <body>
-    <h1>Games</h1>
-    @{
-        for(int i = 0; i <= 10; i++){
-            Console.WriteLine(i);
-        }
-    }
+    <h1>Login</h1>
+    <form method="post" action="/login/authenticate">
+        <div>
+            <label for="username">Usuário:</label>
+            <input type="text" id="username" name="username" required>
+        </div>
+        <div>
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+        <div>
+            <button type="submit">Entrar</button>
+        </div>
+    </form>
 </body>
 </html>
 
