@@ -18,6 +18,12 @@ body {
 
 a {
   cursor: pointer;
+  text-decoration: none;
+  color: #154333;
+}
+
+a:visited {
+  color: #154333;
 }
 
 #logoArea {
@@ -81,11 +87,16 @@ a {
   grid-template-columns: 7fr 3fr;
   padding: 40px;
   gap: 20px;
+  box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.3);
+  margin-top: 30px;
+  margin-bottom: 100px;
 }
 
 #caroussel img {
-  width: 840px;
+  aspect-ratio: 16 / 9;
   height: 400px;
+  /*width: 712px*/
+  object-fit: cover;
 }
 
 #carousselImg {
@@ -95,10 +106,64 @@ a {
 #carousselInfo {
   display: grid;
   grid-template-rows: 1fr 1fr;
-  gap: 20px;
+  gap: 20px;  
+  font-weight: bolder;
+}
+
+#carousselInfo:hover {
+  cursor: default;
 }
 
 #carousselName, #carousselPrice {
   background-color: #F1FFF8;
   align-content: center;
+}
+
+#catalogArea {
+  margin-top: 100px;
+}
+
+#catalogLine {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  gap: 50px;
+}
+
+#card {
+  background-color: #154333;
+  height: 500px;
+  width: 300px;
+  display: grid;
+  grid-template-rows: 7fr 3fr;
+  padding: 20px;
+  gap: 20px;
+  box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.3);
+  cursor: pointer;
+}
+
+#cardInfo {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  background-color: #F1FFF8;
+  border-radius: 15px;
+  place-items: center;
+  height: 100%;
+}
+
+#cardImg {
+
+}
+
+#cardImg img {
+  aspect-ratio: 2 / 3;
+  height: 350px;
+  /*width: 233px*/
+  object-fit: cover;
+}
+
+#catalogLine a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }

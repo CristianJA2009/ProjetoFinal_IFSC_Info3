@@ -1,5 +1,5 @@
-#header[b-i1aoq39zl2] {
-  margin-bottom: 20px;
+#header[b-a1hr9gpbsj] {
+  margin-bottom: 100px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -8,9 +8,7 @@
   background-color: #08251A;
 }
 
-
-#footer[b-i1aoq39zl2] {
-  position: absolute;
+#footer[b-a1hr9gpbsj] {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
@@ -19,6 +17,5 @@
   padding: 20px;
   background-color: #08251A;
   color: #F1FFF8;
-  margin-top: 20px;
+  margin-top: 100px;
 } 
-
