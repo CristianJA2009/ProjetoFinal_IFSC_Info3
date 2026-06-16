@@ -1,3 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 body {
   text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#logoArea {
+  width: 450px;
+}
+
+#logo {
+  width: 157px;
+  height: 70px;
+  object-fit: contain;
+}
+
+#searchArea {
+  max-width: 500px;
+  flex: 1;
+}
+
+#searchInput {
+  width: 100%;
+  border: none;
+  border-radius: 15px;
+  padding: 5px;
+  outline: none;
+}
+
+#userArea {
+  width: 450px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#userArea button{
+  border: none;
+  background-color: #08251A;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#userArea button:hover{
+  background-color: #0b3324;
+}
+
+#container {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#highlightArea {
+  text-align: left
 }
