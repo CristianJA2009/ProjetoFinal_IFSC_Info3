@@ -386,6 +386,6 @@ C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Inf
 C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
-C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-3wj3f1wpce-3wj3f1wpce.gz
-C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\b9u3g5dhph-{0}-qtc9b2jdee-qtc9b2jdee.gz
-C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\25hjivungq-{0}-qtc9b2jdee-qtc9b2jdee.gz
+C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-qetqavsks8-qetqavsks8.gz
+C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\b9u3g5dhph-{0}-6wxrzkanog-6wxrzkanog.gz
+C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\25hjivungq-{0}-6wxrzkanog-6wxrzkanog.gz
