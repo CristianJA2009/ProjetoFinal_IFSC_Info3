@@ -217,8 +217,6 @@ C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
-/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-lugek5hnai-lugek5hnai.gz
-/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-61n19gt1b8-61n19gt1b8.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -279,8 +277,6 @@ C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-hjoejd7vuo-hjoejd7vuo.gz
-/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-hjoejd7vuo-hjoejd7vuo.gz
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
@@ -487,3 +483,7 @@ C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Inf
 /home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
 /home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
 /home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-m8lvyqwuka-m8lvyqwuka.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-ofp1yrn6kj-ofp1yrn6kj.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-hbtpsy1hjn-hbtpsy1hjn.gz

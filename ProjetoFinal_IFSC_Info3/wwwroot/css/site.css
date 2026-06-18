@@ -50,6 +50,10 @@ a:visited {
   background-color: #F1FFF8;
 }
 
+#searchInput:focus {
+  background-color: #fcfcfc;
+}
+
 #userArea {
   width: 450px;
   display: flex;
@@ -101,6 +105,7 @@ a:visited {
 
 #carousselImg {
   text-align: center;
+  height: 400px;
 }
 
 #carousselInfo {
