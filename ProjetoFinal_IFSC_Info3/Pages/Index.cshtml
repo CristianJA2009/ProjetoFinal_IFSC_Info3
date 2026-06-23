@@ -5,17 +5,6 @@
     ViewData["Title"] = "Home page";
 }
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Legends Store</title>
-    <link rel="stylesheet" href="~/css/site.css">
-</head>
-
-<body>
     <main id="container">
         <h1 style="text-align: left;">Destaques e Promoções</h1>
         <section id="highlightArea">
@@ -48,15 +37,30 @@
                         </div>
                     </div>
                 </a>
-                <div id="card">
-                    <h1>a</h1>
-                </div>
-                <div id="card">
-                    <h1>a</h1>
-                </div>
+                <a href="#">
+                    <div id="card">
+                        <div id="cardImg">
+                            <img src="~/img/image.jpg" alt="">
+                        </div>
+                        <div id="cardInfo">
+                            <h3>Rayman Origins</h3>
+                            <h3>R$39,90</h3>
+                        </div>
+                    </div>
+                </a>
+                <a href="#">
+                    <div id="card">
+                        <div id="cardImg">
+                            <img src="~/img/image.jpg" alt="">
+                        </div>
+                        <div id="cardInfo">
+                            <h3>Rayman Origins</h3>
+                            <h3>R$39,90</h3>
+                        </div>
+                    </div>
+                </a>
             </div>
+
+            <a asp-page="/Usuario">Usuario</a>
         </section>
     </main>
-</body>
-
-</html>
