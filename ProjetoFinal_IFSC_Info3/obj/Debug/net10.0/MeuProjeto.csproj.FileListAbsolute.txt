@@ -710,5 +710,5 @@ C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Inf
 /home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 /home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.AssemblyReference.cache
-/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-gapatn1rwf-gapatn1rwf.gz
 /home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.Up2Date
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-rutqwgwub9-rutqwgwub9.gz

@@ -198,15 +198,72 @@ a:visited {
 }
 
 .divUser {
-  background-color: #08251A;
+  background-color: #0b3324;
   padding: 25px;
   border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 75%;
+  margin: auto;
 }
 
 .divUser h1 {
   color: #F1FFF8;
 }
 
-.divUser label {
+.divIco {
+  width: 65%;
+  align-self: center;
+  display: flex;
+  height: 35px;
+}
+
+.divIco svg {
+  background-color: white;
+  height: 35px;
+  width: 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.divUser input, #submitBtn {
   width: 100%;
+  border: none;
+  font-size: 18px;
+  padding: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-weight: 500;
+  background-color: white;
+}
+
+#submitBtn {
+  border-radius: 5px;
+  width: 65%;
+  align-self: center;
+}
+
+.divUser input::placeholder, #submitBtn {
+  color: #0b3324;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.subForm {
+  font-size: 15px;
+}
+
+.subBtn {
+  width: fit-content;
+  padding: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+  border-radius: 5px;
+  color:#0b3324;
+  font-weight: 500;
 }
