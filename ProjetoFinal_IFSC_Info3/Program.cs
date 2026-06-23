@@ -1,7 +1,14 @@
+using ProjetoFinal_IFSC_info3.model;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<LojaOnlineContext>(options =>
+{
+   options.UseSqlServer(); 
+});
 
 var app = builder.Build();
 

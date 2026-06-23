@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj": {}
+    "/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj": {}
   },
   "projects": {
-    "/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj": {
+    "/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj",
+        "projectUniqueName": "/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj",
-        "packagesPath": "/home/alunolages/.nuget/packages/",
-        "outputPath": "/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/",
+        "projectPath": "/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/MeuProjeto.csproj",
+        "packagesPath": "/home/matheus/.nuget/packages/",
+        "outputPath": "/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/alunolages/.nuget/NuGet/NuGet.Config"
+          "/home/matheus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

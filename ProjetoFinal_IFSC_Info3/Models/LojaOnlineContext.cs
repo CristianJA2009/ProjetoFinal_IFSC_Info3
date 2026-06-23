@@ -6,5 +6,9 @@ namespace ProjetoFinal_IFSC_info3.model
     {
         public DbSet<Usuario> Usuarios {get; set;}
         
+        public LojaOnlineContext(DbContextOptions options) : base(options)
+        {
+            
+        }
     }
 }
