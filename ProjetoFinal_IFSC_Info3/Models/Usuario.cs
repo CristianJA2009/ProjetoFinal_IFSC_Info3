@@ -1,4 +1,4 @@
-namespace Projeto_Final_IFSC_indo3
+namespace ProjetoFinal_IFSC_info3
 {
     public class Usuario
     {

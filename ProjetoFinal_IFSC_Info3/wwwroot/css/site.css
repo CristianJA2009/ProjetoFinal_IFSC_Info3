@@ -27,8 +27,8 @@
   background-color: #08251A;
   color: #F1FFF8;
   margin-top: 100px;
+  border: none;
 } 
-
 
 body {
   text-align: center;
@@ -37,6 +37,10 @@ body {
   flex-direction: column;
   background-color: #F1FFF8;
   color: #154333;
+}
+
+.bodyAlt {
+  background-color: #154333;
 }
 
 a {
@@ -180,10 +184,6 @@ a:visited {
   height: 100%;
 }
 
-#cardImg {
-
-}
-
 #cardImg img {
   aspect-ratio: 2 / 3;
   height: 350px;
@@ -195,4 +195,18 @@ a:visited {
   display: block;
   text-decoration: none;
   color: inherit;
+}
+
+.divUser {
+  background-color: #08251A;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.divUser h1 {
+  color: #F1FFF8;
+}
+
+.divUser label {
+  width: 100%;
 }
