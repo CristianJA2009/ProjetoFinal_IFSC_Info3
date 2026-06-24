@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using ProjetoFinal_IFSC_info3.model;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +8,7 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<LojaOnlineContext>(options =>
 {
-   options.UseSqlServer(); 
+   options.UseSqlServer(builder.Configuration.GetConnectionString("LojaOnlineConnection")); 
 });
 
 var app = builder.Build();
