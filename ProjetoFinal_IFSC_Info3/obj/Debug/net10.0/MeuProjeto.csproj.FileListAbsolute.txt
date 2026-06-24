@@ -1161,4 +1161,4 @@ C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-4hjlpk2npz-4hjlpk2npz.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-2wy277vhlq-2wy277vhlq.gz
