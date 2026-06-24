@@ -306,10 +306,53 @@ h1 {
 }
 
 .divUser table {
-  background-color: #F1FFF8;
+  background-color: #F9FDFE;
   display: flex;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  border-radius: 5px;
 }
 
-td {
-  flex: 1;
+th {
+  background-color: #DEF5FB;
+  outline: 2px solid #DEF5FB;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+th, td, tr {
+  width: 300px;
+  padding: 7px;
+}
+
+.divUser img {
+  aspect-ratio: 16 / 9;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px gray;
+}
+
+h2 {
+  font-size: 12px;
+}
+
+.divButtons {
+  background-color: #0b3324;
+  width: fit-content;
+  margin: auto;
+  border: 2px solid #0b3324;
+  border-radius: 5px;
+}
+
+.divButtons button {
+  width: 35px;
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+
+.divButtons button:hover {
+  background-color: #154333;
 }
