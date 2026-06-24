@@ -344,6 +344,7 @@ h2 {
   margin: auto;
   border: 2px solid #0b3324;
   border-radius: 5px;
+  margin-top: 10px;
 }
 
 .divButtons button {
@@ -355,4 +356,8 @@ h2 {
 
 .divButtons button:hover {
   background-color: #154333;
+}
+
+.divButtons svg {
+  padding-top: 3px;
 }
