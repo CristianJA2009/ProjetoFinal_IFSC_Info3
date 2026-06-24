@@ -5,6 +5,7 @@
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  transition: all ease 0.3s;
 }
 
 #header {
@@ -200,6 +201,8 @@ a:visited {
 .divUser {
   background-color: #0b3324;
   padding: 25px;
+  padding-top: 65px;
+  padding-bottom: 75px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -225,6 +228,7 @@ a:visited {
   width: 25px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
+  padding-left: 5px;
 }
 
 .divUser input, #submitBtn {
@@ -249,8 +253,14 @@ a:visited {
   border: none;
 }
 
+
+#submitBtn:hover{
+  background-color: #F1FFF8;
+}
+
 button:hover {
   cursor: pointer;
+  background-color: #F1FFF8;
 }
 
 .subForm {
