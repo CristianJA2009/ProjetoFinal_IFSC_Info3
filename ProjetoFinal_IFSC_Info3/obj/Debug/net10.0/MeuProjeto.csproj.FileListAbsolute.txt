@@ -1087,7 +1087,6 @@ C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\bundle\MeuProjeto.styles.css
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\projectbundle\MeuProjeto.bundle.scp.css
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-2d2lrcr2j0-2d2lrcr2j0.gz
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\0d6wyajvfz-{0}-t1cqhe9u97-t1cqhe9u97.gz
@@ -1162,3 +1161,4 @@ C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-ww9repfb4r-ww9repfb4r.gz

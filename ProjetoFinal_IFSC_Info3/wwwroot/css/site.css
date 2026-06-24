@@ -277,3 +277,39 @@ button:hover {
   color:#0b3324;
   font-weight: 500;
 }
+
+.mainTitle {
+  background-color: #0b3324;
+  width: 35%;
+  margin: auto;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+  padding: 12px;
+  display: flex;
+}
+
+.mainTitle svg {
+  width: 35px;
+  height: 30px;
+}
+
+.subDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+h1 {
+  font-size: 25px;
+  flex: 1;
+}
+
+.divUser table {
+  background-color: #F1FFF8;
+  display: flex;
+}
+
+td {
+  flex: 1;
+}
