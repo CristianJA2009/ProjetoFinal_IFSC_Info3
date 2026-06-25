@@ -1,0 +1,21 @@
+﻿#header {
+  margin-bottom: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 20px;
+  background-color: #08251A;
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+  border-top: 1px black solid;
+  padding: 20px;
+  background-color: #08251A;
+  color: #F1FFF8;
+  margin-top: 100px;
+} 
