@@ -1,0 +1,1164 @@
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.exe
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-b9sayid5wm-b9sayid5wm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-356vix0kms-356vix0kms.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-83jwlth58m-83jwlth58m.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-mlv21k5csn-mlv21k5csn.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-uusyx4eox7-uusyx4eox7.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-uusyx4eox7-uusyx4eox7.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.exe
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-b9sayid5wm-b9sayid5wm.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-356vix0kms-356vix0kms.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-83jwlth58m-83jwlth58m.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-mlv21k5csn-mlv21k5csn.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-uusyx4eox7-uusyx4eox7.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-uusyx4eox7-uusyx4eox7.gz
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+C:/Users/Usuario/Documents/codigos/Test/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-qlccset4i1-qlccset4i1.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.exe
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-sejl45xvog-sejl45xvog.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-22vffe00uq-22vffe00uq.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rxsg74s51o-rxsg74s51o.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-q9ht133ko3-q9ht133ko3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-gye83jo8yx-gye83jo8yx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-d4r6k3f320-d4r6k3f320.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-keugtjm085-keugtjm085.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-zub09dkrxp-zub09dkrxp.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-43atpzeawx-43atpzeawx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-c63t5i9ira-c63t5i9ira.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-4094rpi4f9-4094rpi4f9.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-hd3gran6i8-hd3gran6i8.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-ltid2c489k-ltid2c489k.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-u9q1upor1n-u9q1upor1n.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-03hjc8e09r-03hjc8e09r.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-48y08845bh-48y08845bh.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-356vix0kms-356vix0kms.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-83jwlth58m-83jwlth58m.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-worgj0nhwm-worgj0nhwm.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-jjsuc0puko-jjsuc0puko.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-mlv21k5csn-mlv21k5csn.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-qlccset4i1-qlccset4i1.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
+/home/matheus/Documentos/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-m8lvyqwuka-m8lvyqwuka.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-hbtpsy1hjn-hbtpsy1hjn.gz
+/home/info/Documents/C#/projeto_final_m3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-jj4zfeg357-jj4zfeg357.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-fx5lfww57x-fx5lfww57x.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-70g7ttakzx-70g7ttakzx.gz
+C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-70g7ttakzx-70g7ttakzx.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-qlccset4i1-qlccset4i1.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-gu0sym54b4-gu0sym54b4.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-gu0sym54b4-gu0sym54b4.gz
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Azure.Core.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Azure.Identity.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Humanizer.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.ClientModel.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.CodeDom.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Memory.Data.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.AssemblyReference.cache
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.Up2Date
+/home/alunolages/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-laadnjp093-laadnjp093.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.Development.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/appsettings.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.runtime.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.staticwebassets.endpoints.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.deps.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/MeuProjeto.pdb
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Azure.Core.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Azure.Identity.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Humanizer.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.ClientModel.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.CodeDom.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Memory.Data.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.AssemblyReference.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.RazorAssemblyInfo.cs
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/bundle/MeuProjeto.styles.css
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/scopedcss/projectbundle/MeuProjeto.bundle.scp.css
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vpkb4vi8bl-{0}-laadnjp093-laadnjp093.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/riagb01jp6-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0d6wyajvfz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u68z672t1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gsqparvhmm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/urxcfv2svz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dgkgquwgln-{0}-ub07r2b239-ub07r2b239.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/v46aobsdfi-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/wb0wj5iw7n-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x39pkb5y5l-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ouw9u19yg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/uas7rbh7mf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/zrhqjqq8j9-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/jvztawau8b-{0}-06098lyss8-06098lyss8.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/cr0t9dy6pb-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/s6cu89s0e0-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/poe57gsk7q-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/299o8o2o0r-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/dvvr63bcaj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/a2rho1pb8h-{0}-493y06b0oq-493y06b0oq.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/pao7vm367b-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/g60qplrv4v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/m0pi9bgus9-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/x19soq51cm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/063qd0z5sk-{0}-47otxtyo56-47otxtyo56.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p64f92wbpd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/u7wcsnhkhg-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/d86a7tni08-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/ry4tid4ynl-{0}-qlccset4i1-qlccset4i1.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/1du6rutj3h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/szfk2w10mb-{0}-ag7o75518u-ag7o75518u.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/aq7iw4793d-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/0ozrxr1yft-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/mzmrlc09xi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/p7dt6j3szo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/amsoymwe7l-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/kikzo0je2l-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/b9u3g5dhph-{0}-gu0sym54b4-gu0sym54b4.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/compressed/25hjivungq-{0}-gu0sym54b4-gu0sym54b4.gz
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.development.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/swae.build.ex.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.csproj.Up2Date
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/refint/MeuProjeto.dll
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.pdb
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/obj/Debug/net10.0/ref/MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.staticwebassets.runtime.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.staticwebassets.endpoints.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.exe
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.deps.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.runtimeconfig.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.pdb
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Humanizer.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.RazorAssemblyInfo.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.RazorAssemblyInfo.cs
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.sourcelink.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\bundle\MeuProjeto.styles.css
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\projectbundle\MeuProjeto.bundle.scp.css
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\0d6wyajvfz-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\h3o83c3rnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\u68z672t1g-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\zegp0b0po6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\gsqparvhmm-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\7z64ia073j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\urxcfv2svz-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\xcnz46j6vr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\dgkgquwgln-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\oy05vixqxr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\v46aobsdfi-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\xt4h1kl3ek-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\wb0wj5iw7n-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8eogmt9ypv-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\x39pkb5y5l-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ezaodekebn-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\0ouw9u19yg-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\5cxodstey4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\uas7rbh7mf-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\h2n3zqwrrj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\zrhqjqq8j9-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ae7vgsct7v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\jvztawau8b-{0}-keugtjm085-keugtjm085.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\t3gmjysn6r-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\cr0t9dy6pb-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ayv1ppnydk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\s6cu89s0e0-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vkharif2r2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\poe57gsk7q-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\3hxkh7jcil-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\299o8o2o0r-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\h0ukjsynmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\dvvr63bcaj-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\hao8g6d8gx-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\a2rho1pb8h-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\leijvtiao3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\pao7vm367b-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\g2vozvjk4n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\g60qplrv4v-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8kve4ow5mp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\m0pi9bgus9-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\hxuf96je22-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\x19soq51cm-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\gosv7ydman-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\063qd0z5sk-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\p64f92wbpd-{0}-48y08845bh-48y08845bh.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\u7wcsnhkhg-{0}-356vix0kms-356vix0kms.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\d86a7tni08-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ry4tid4ynl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\1du6rutj3h-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\szfk2w10mb-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\aq7iw4793d-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\0ozrxr1yft-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\mzmrlc09xi-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\i8asyyxbeo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\p7dt6j3szo-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\amsoymwe7l-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\nm3dylzcbg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\kikzo0je2l-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\b9u3g5dhph-{0}-70g7ttakzx-70g7ttakzx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\25hjivungq-{0}-70g7ttakzx-70g7ttakzx.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.csproj.Up2Date
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\refint\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-2wy277vhlq-2wy277vhlq.gz
