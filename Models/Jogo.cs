@@ -11,8 +11,8 @@ namespace ProjetoFinal_IFSC_info3
         public DateTime criado_em { get; set; }
         public int categoria_id { get; set; }
         public Categoria Categoria { get; set; }
-        public ICollection<Usuario> Usuarios { get; set; } = new List<Usuario>();
-        public ICollection<Carrinho> Carrinhos { get; set; } = new List<Carrinho>();
-        public ICollection<Compra> Compras { get; set; } = new List<Compra>();
+        public ICollection<Usuario_Jogo> UsuarioJogos { get; set; } = new List<Usuario_Jogo>();
+        public ICollection<Carrinho_Jogo> CarrinhoJogos { get; set; } = new List<Carrinho_Jogo>();
+        public ICollection<Compra_Jogo> CompraJogos { get; set; } = new List<Compra_Jogo>();
     }
 }

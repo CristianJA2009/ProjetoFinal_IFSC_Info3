@@ -10,9 +10,9 @@ namespace ProjetoFinal_IFSC_info3.model
         public DbSet<Compra> Compras { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Carrinho> Carrinhos { get; set; }
-        public DbSet<Usuario_Jogo> Usuarios_Jogos { get; set; }
-        public DbSet<Compra_Jogo> Compra_Jogos { get; set; }
-        public DbSet<Carrinho_Jogo> Carrinhos_Jogos{ get; set; }
+        public DbSet<Usuario_Jogo> UsuariosJogos { get; set; }
+        public DbSet<Compra_Jogo> CompraJogos { get; set; }
+        public DbSet<Carrinho_Jogo> CarrinhosJogos{ get; set; }
         public LojaOnlineContext(DbContextOptions options) : base(options)
         {
             

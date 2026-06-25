@@ -12,6 +12,6 @@ namespace ProjetoFinal_IFSC_info3
         public string tipo { get; set; }
         public ICollection<Compra> Compras { get; set; } = new List<Compra>();
         public Carrinho Carrinho { get; set; }
-        public ICollection<Jogo> Jogos { get; set; } = new List<Jogo>();
+        public ICollection<Usuario_Jogo> UsuarioJogos { get; set; } = new List<Usuario_Jogo>();
     }
 }

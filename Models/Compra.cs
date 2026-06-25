@@ -8,6 +8,6 @@ namespace ProjetoFinal_IFSC_info3
         public int usuario_id { get; set; }
         public Usuario Usuario { get; set; }
         public Pagamento Pagamento { get; set; }
-        public ICollection<Jogo> Jogos { get; set; } = new List<Jogo>();
+        public ICollection<Compra_Jogo> CompraJogos{ get; set; } = new List<Compra_Jogo>();
     }
 }
