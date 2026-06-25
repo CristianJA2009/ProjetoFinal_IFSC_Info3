@@ -1160,7 +1160,6 @@ C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-2wy277vhlq-2wy277vhlq.gz
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.json
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.staticwebassets.runtime.json
@@ -1387,3 +1386,9 @@ C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\refi
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.sourcelink.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\2mxtpp5bt5-{0}-evwkq4kyyn-evwkq4kyyn.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\yodpmxfwkc-{0}-jsaiqji6vu-jsaiqji6vu.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8aahkzrbwf-{0}-0uc9qhn43k-0uc9qhn43k.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\otv838x71y-{0}-u26j3ltsvs-u26j3ltsvs.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-pok8exm40l-pok8exm40l.gz
