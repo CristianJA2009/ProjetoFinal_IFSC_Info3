@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\catalogo\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\catalogo\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\lojaonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\lojaonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\carrinho\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\carrinho\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\compra_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\compra_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\usuario_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\usuario_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\carrinho_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\carrinho_jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "catalogo.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\catalogo\\catalogo.cshtml",
-              "RelativeDocumentMoniker": "Pages\\catalogo\\catalogo.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\catalogo\\catalogo.cshtml",
-              "RelativeToolTip": "Pages\\catalogo\\catalogo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T17:31:09.68Z",
+              "Title": "LojaOnlineContext.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\LojaOnlineContext.cs",
+              "RelativeDocumentMoniker": "Models\\LojaOnlineContext.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\LojaOnlineContext.cs",
+              "RelativeToolTip": "Models\\LojaOnlineContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:49:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compra_Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Compra_Jogo.cs",
+              "RelativeDocumentMoniker": "Models\\Compra_Jogo.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Compra_Jogo.cs",
+              "RelativeToolTip": "Models\\Compra_Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:16:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Compra.cs",
+              "RelativeToolTip": "Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:34:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
+              "RelativeDocumentMoniker": "Models\\Jogo.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
+              "RelativeToolTip": "Models\\Jogo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:35:27.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "carrinho.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\carrinho.cshtml",
-              "RelativeDocumentMoniker": "Pages\\carrinho\\carrinho.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\carrinho.cshtml",
-              "RelativeToolTip": "Pages\\carrinho\\carrinho.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T17:31:03.65Z",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:35:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario_Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Usuario_Jogo.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario_Jogo.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Usuario_Jogo.cs",
+              "RelativeToolTip": "Models\\Usuario_Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:11:52.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrinho_Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho_Jogo.cs",
+              "RelativeDocumentMoniker": "Models\\Carrinho_Jogo.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho_Jogo.cs",
+              "RelativeToolTip": "Models\\Carrinho_Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:14:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
+              "RelativeDocumentMoniker": "Models\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
+              "RelativeToolTip": "Models\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:49:40.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Pagamento.cs",
+              "RelativeToolTip": "Models\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:41:46.057Z",
               "EditorCaption": ""
             }
           ]
