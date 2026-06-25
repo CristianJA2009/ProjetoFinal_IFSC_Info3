@@ -20,93 +20,53 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = MeuProjeto
 build_property.RootNamespace = MeuProjeto
-build_property.ProjectDir = C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\
+build_property.ProjectDir = C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3
+build_property.MSBuildProjectDirectory = C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/carrinho/carrinho.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/carrinho/carrinho.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FycmluaG9cY2FycmluaG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/catalogo/catalogo.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/catalogo/catalogo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2F0YWxvZ29cY2F0YWxvZ28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/Index.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/login/login.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/login/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/pagamento/pagamento.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/pagamento/pagamento.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnYW1lbnRvXHBhZ2FtZW50by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/registro/registro.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/registro/registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVnaXN0cm9ccmVnaXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/_ViewImports.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/_ViewStart.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/carrinho/carrinho.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcY2FycmluaG9cY2FycmluaG8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/catalogo/catalogo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcY2F0YWxvZ29cY2F0YWxvZ28uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/login/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcbG9naW5cbG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/pagamento/pagamento.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNccGFnYW1lbnRvXHBhZ2FtZW50by5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/registro/registro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNccmVnaXN0cm9ccmVnaXN0cm8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/Pages/Shared/_Layout.cshtml]
+[C:/Users/vboxuser/Documents/Games/ProjetoFinal_IFSC_Info3/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i1aoq39zl2
-
-[C:/Users/vboxuser/Documents/games irados/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0ZpbmFsX0lGU0NfSW5mbzNcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-yi5wqj3y1l
