@@ -437,3 +437,49 @@ tr {
 .divButtons svg {
   padding-top: 3px;
 }
+
+.spaceAlt {
+  margin-top: 2%;
+}
+
+.divLibrary {
+  display: flex;
+  gap: 30px;
+}
+
+.profileGame {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.profileGame img {
+  aspect-ratio: 2 / 3;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px gray;
+}
+
+.profileGame p {
+  background-color: #F9FDFE;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.divGame {
+  width: 100%;
+}
+
+.subDivGame {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.rowDivGame {
+  display: flex;
+  flex-direction: column;
+  background-color: greenyellow;
+  width: 50%;
+}
