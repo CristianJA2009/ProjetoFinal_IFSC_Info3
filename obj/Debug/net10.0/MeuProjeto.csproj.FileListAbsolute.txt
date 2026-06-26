@@ -1160,6 +1160,12 @@ C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.sourcelink.json
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\2mxtpp5bt5-{0}-evwkq4kyyn-evwkq4kyyn.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\yodpmxfwkc-{0}-jsaiqji6vu-jsaiqji6vu.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8aahkzrbwf-{0}-0uc9qhn43k-0uc9qhn43k.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\otv838x71y-{0}-u26j3ltsvs-u26j3ltsvs.gz
+C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-pok8exm40l-pok8exm40l.gz
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\appsettings.json
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\bin\Debug\net10.0\MeuProjeto.staticwebassets.runtime.json
@@ -1310,7 +1316,11 @@ C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\rjsm
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\bundle\MeuProjeto.styles.css
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\scopedcss\projectbundle\MeuProjeto.bundle.scp.css
-C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-hfsvmx7wig-hfsvmx7wig.gz
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8aahkzrbwf-{0}-os343s5j22-os343s5j22.gz
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\otv838x71y-{0}-1xc2vvuw4v-1xc2vvuw4v.gz
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\2mxtpp5bt5-{0}-2x0a0ihovr-2x0a0ihovr.gz
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-pok8exm40l-pok8exm40l.gz
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\yodpmxfwkc-{0}-oktmfgm23m-oktmfgm23m.gz
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\ug0d16fmsd-{0}-dhqhaxpk03-dhqhaxpk03.gz
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\riagb01jp6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\0d6wyajvfz-{0}-t1cqhe9u97-t1cqhe9u97.gz
@@ -1386,9 +1396,3 @@ C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\refi
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\ref\MeuProjeto.dll
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\MeuProjeto.sourcelink.json
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\2mxtpp5bt5-{0}-evwkq4kyyn-evwkq4kyyn.gz
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\yodpmxfwkc-{0}-jsaiqji6vu-jsaiqji6vu.gz
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\8aahkzrbwf-{0}-0uc9qhn43k-0uc9qhn43k.gz
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\otv838x71y-{0}-u26j3ltsvs-u26j3ltsvs.gz
-C:\Users\vboxuser\Documents\games irados\ProjetoFinal_IFSC_Info3\obj\Debug\net10.0\compressed\vpkb4vi8bl-{0}-pok8exm40l-pok8exm40l.gz

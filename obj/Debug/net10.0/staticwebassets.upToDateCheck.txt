@@ -1,4 +1,8 @@
+wwwroot\css\at.svg
+wwwroot\css\eye.svg
+wwwroot\css\point.svg
 wwwroot\css\site.css
+wwwroot\css\user.svg
 wwwroot\favicon.ico
 wwwroot\img\cart.png
 wwwroot\img\icon.png
@@ -70,8 +74,9 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\site.css
-C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\favicon.ico
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\at.svg
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\eye.svg
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
@@ -130,5 +135,8 @@ C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\jquery\dis
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\js\site.js
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\favicon.ico
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\user.svg
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\site.css
+C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\point.svg
