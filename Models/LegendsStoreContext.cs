@@ -6,7 +6,7 @@ namespace MeuProjeto.Models
     {
         public DbSet<Usuario> Usuarios { get; set; }
 
-        public LegendsStoreContext(DbContextOptions<LegendsStoreContext> options) : base(options)
+        public LegendsStoreContext(DbContextOptions options) : base(options)
         {
         }
     }
