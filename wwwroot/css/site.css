@@ -480,6 +480,42 @@ tr {
 .rowDivGame {
   display: flex;
   flex-direction: column;
-  background-color: greenyellow;
   width: 50%;
+  gap: 35px;
+}
+
+.rowDivGame .mainTitle {
+  width: 65%;
+}
+
+.rowDivGame img {
+  aspect-ratio: 16 / 9;
+  height: 250px;
+  object-fit: cover;
+  width: 95%;
+  margin: auto;
+  box-shadow: 0px 3px 5px black;
+}
+
+.rowDivGame p {
+  background-color: #F9FDFE;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.gameInfo {
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+}
+
+.rowDivGame button {
+  background-color: #F9FDFE;
+  border: none;
+  border-radius: 10px;
+  height: 100%;
+}
+
+.rowDivGame button:hover {
+  background-color: #DEF5FB;
 }
