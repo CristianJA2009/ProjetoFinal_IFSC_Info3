@@ -8,7 +8,7 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<LegendsStoreContext>(options =>
 {
-   options.UseSqlServer(builder.Configuration.GetConnectionString("LegendsStoreContext")); 
+   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")); 
 });
 
 var app = builder.Build();
