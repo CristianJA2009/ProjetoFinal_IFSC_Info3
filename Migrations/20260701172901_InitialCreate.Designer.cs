@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MeuProjeto.Migrations
 {
     [DbContext(typeof(LegendsStoreContext))]
-    [Migration("20260630053415_InitialCreate")]
+    [Migration("20260701172901_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -242,7 +242,6 @@ namespace MeuProjeto.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("foto")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nome")

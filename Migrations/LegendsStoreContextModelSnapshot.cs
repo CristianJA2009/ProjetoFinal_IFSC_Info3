@@ -239,7 +239,6 @@ namespace MeuProjeto.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("foto")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nome")

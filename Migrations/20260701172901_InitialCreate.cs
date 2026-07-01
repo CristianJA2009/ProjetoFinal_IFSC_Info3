@@ -33,7 +33,7 @@ namespace MeuProjeto.Migrations
                     nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     email = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     senha = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    foto = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    foto = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     pontos = table.Column<int>(type: "int", nullable: false),
                     criado_em = table.Column<DateTime>(type: "datetime2", nullable: false),
                     tipo = table.Column<string>(type: "nvarchar(max)", nullable: false)
