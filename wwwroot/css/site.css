@@ -501,6 +501,7 @@ tr {
   background-color: #F9FDFE;
   padding: 25px;
   border-radius: 10px;
+  font-weight: 500;
 }
 
 .gameInfo {
@@ -517,5 +518,115 @@ tr {
 }
 
 .rowDivGame button:hover {
+  background-color: #DEF5FB;
+}
+
+.divWhite {
+  background-color: #F9FDFE;
+  border-radius: 10px;
+}
+
+.divWhite .top {
+  background-color: #DEF5FB;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.divWhite h1 {
+  color: #2C3F44;
+  font-size: 20px;
+}
+
+.payment-form {
+  background-color: #18513C;
+  width: 60%;
+  margin: auto;
+  padding: 8px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  display: flex;
+}
+
+.divWhite button:hover {
+  background-color: #154333;
+}
+
+.divColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.payment-form p {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.payment-label {
+  background-color: white;
+  color: #08251A;
+  border-radius: 5px;
+}
+
+.payment-form svg {
+  width: -1px;
+}
+
+.flex {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.order-summary {
+  gap: 15px;
+  width: 80%;
+  margin: auto;
+}
+
+.summary-info {
+  background-color: #18513C;
+  border-radius: 10px;
+  width: 100%;
+  justify-content: center;
+  gap: 15px;
+}
+
+.summary-flex {
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.summary-info p {
+  background-color: white;
+  padding: 8px;
+  border-radius: 5px;
+  width: 260px;
+}
+
+.summary-info button {
+  border: none;
+  font-size: 15px;
+  padding-left: 55px;
+  padding-right: 55px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.summary-info button:hover {
   background-color: #DEF5FB;
 }
