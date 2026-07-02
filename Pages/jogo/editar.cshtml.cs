@@ -1,15 +1,17 @@
 using MeuProjeto.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace MeuProjeto.Pages.jogo
+
 {
-    public class addGameModel : PageModel
+    public class editarModel : PageModel
     {
         private readonly LegendsStoreContext _context;
 
-        public addGameModel(LegendsStoreContext context)
+        public editarModel(LegendsStoreContext context)
         {
             _context = context;
         }
@@ -42,10 +44,12 @@ namespace MeuProjeto.Pages.jogo
         }
 
         public List<Categoria> Categorias { get; set; }
+        public Jogo Jogo { get; set; }
 
-        public void OnGet()
+        public void OnGet(int Id)
         {
             Categorias = _context.Categorias.ToList();
+            Jogo = _context.Jogos.FirstOrDefault(j => j.Id == Id);
         }
 
         public async Task<IActionResult> OnPostAsync()
@@ -66,32 +70,46 @@ namespace MeuProjeto.Pages.jogo
 
             ViewData["ErrorMessage"] = null;
 
-            string ImgName = Path.GetFileName(GameImg.FileName);
-            string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
-            string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
+            string GameImgPath;
+            string GameBannerPath;
 
             string pasta = Path.Combine(
                            Directory.GetCurrentDirectory(),
                            "wwwroot",
                            "uploads");
 
-            string caminhoImg = Path.Combine(pasta, GameImgPath);
-
-            using (var stream = new FileStream(caminhoImg, FileMode.Create))
+            if (GameImg == null) 
             {
-                await GameImg.CopyToAsync(stream);
+                GameImgPath = Jogo.capa;
+            } else
+            {
+                string ImgName = Path.GetFileName(GameImg.FileName);
+                string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
+                GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
+
+                string caminhoImg = Path.Combine(pasta, GameImgPath);
+
+                using (var stream = new FileStream(caminhoImg, FileMode.Create))
+                {
+                    await GameImg.CopyToAsync(stream);
+                }
             }
 
-
-            string BannerName = Path.GetFileName(GameBanner.FileName);
-            string extensionBanner = Path.GetExtension(BannerName);
-            string GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
-
-            string caminhoBanner = Path.Combine(pasta, GameBannerPath);
-
-            using (var stream = new FileStream(caminhoBanner, FileMode.Create))
+            if (GameBanner == null) 
+            { 
+                GameBannerPath = Jogo.banner;
+            } else
             {
-                await GameBanner.CopyToAsync(stream);
+                string BannerName = Path.GetFileName(GameBanner.FileName);
+                string extensionBanner = Path.GetExtension(BannerName);
+                GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
+
+                string caminhoBanner = Path.Combine(pasta, GameBannerPath);
+
+                using (var stream = new FileStream(caminhoBanner, FileMode.Create))
+                {
+                    await GameBanner.CopyToAsync(stream);
+                }
             }
 
             try

@@ -1,10 +1,9 @@
 @page
-@model JogoModel
+@model MeuProjeto.Pages.JogoModel
 @{
     Layout = "~/Pages/Shared/_Layout.cshtml";
     ViewData["Title"] = "Jogo";
 }
-
 
 
 <main id="container">
@@ -12,23 +11,23 @@
         <div class="subDivGame">
             <div class='rowDivGame'>
                 <div class='mainTitle altColor'>
-                    <h1>Rayman Legends</h1>
+                    <h1>@Model.Jogo.nome</h1>
                 </div>
-                <img src="~/img/raymanlegends.jpg">
+                <img src="~/uploads/@Model.Jogo.banner">
             </div>
             <div class='rowDivGame'>
-                <p>Rayman Legends é um aclamado jogo de plataforma 2D desenvolvido pela Ubisoft Montpellier. Na história, Rayman, Globox e os Teensies são sugados para dentro de pinturas mágicas, embarcando em uma aventura frenética para salvar mundos míticos, resgatar as princesas e derrotar criaturas de pesadelo.</p>
+                <p>@Model.Jogo.descricao</p>
                 <div class='gameInfo'>
                     <div class='rowDivGame'>
-                        <p>03/09/2013</p>
+                        <p>@Model.Jogo.criado_em.ToString("dd/MM/yyyy")</p>
                     </div>
                     <div class='rowDivGame'>
-                        <p>R$ 39,90</p>
+                        <p>@Model.Jogo.valor.ToString("C")</p>
                     </div>
                 </div>
                 <div class='gameInfo'>
                     <div class='rowDivGame'>
-                        <p>Plataforma</p>
+                        <p>@Model.Categoria.nome</p>
                     </div>
                     <div class='rowDivGame'>
                         <button>

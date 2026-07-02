@@ -9,12 +9,20 @@ public class JogoModel : PageModel
 {
     private readonly LegendsStoreContext _context;
 
+    //criação dos objetos das classes
+    public Jogo Jogo { get; set; }
+    public Categoria Categoria { get; set; }
+
+    //construtor do context
     public JogoModel(LegendsStoreContext context)
     {
         _context = context;
     }
-    public async Task OnGetAsync(int Id)
+
+    //quando a página carrega os objetos pegam as informações conforme o id
+    public async Task OnGet(int Id)
     {
-        var jogo = await _context.Jogos.FirstOrDefaultAsync(j => j.Id == Id);
+        Jogo = _context.Jogos.FirstOrDefault(j => j.Id == Id);
+        Categoria = _context.Categorias.FirstOrDefault(c => c.Id == Jogo.categoriaId);
     }
 }
