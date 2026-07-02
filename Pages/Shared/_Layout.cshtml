@@ -12,12 +12,17 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
           rel="stylesheet">
+
 </head>
 
 <body>
-    <header id="header">
+    @using Microsoft.AspNetCore.Http
+    @inject IHttpContextAccessor HttpContextAccessor
+    @inject Services.UsuarioSessao Usuario
+
+<header id="header">
         <div id="logoArea">
-            <a href="/"><img id="logo" src="~/img/largeicon.png" alt="logo"/></a>
+            <a href="/"><img id="logo" src="~/img/largeicon.png" alt="logo" /></a>
         </div>
         <div id="searchArea">
             <form action="" method="post">
@@ -26,7 +31,20 @@
         </div>
         <div id="userArea">
             <button><a asp-page="/carrinho/carrinho"><img src="~/img/cart.png" alt="Cart"></a></button>
-            <button><a asp-page="/login/login"><img src="~/img/user.png" alt="User"></a></button>
+
+            <div class="dropdown">
+                <button class="button" id="userButton">
+                    <img src="~/img/user.png" alt="Usuário">
+                </button>
+
+                <div class="dropdown-menu" id="userDropdown">
+                    <a asp-page="/conta/perfil">Meu Perfil</a>
+
+                    <hr>
+
+                    <a asp-page="/conta/logout">Sair</a>
+                </div>
+            </div>
         </div>
     </header>
 
@@ -40,6 +58,23 @@
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        const button = document.getElementById("userButton");
+        const menu = document.getElementById("userDropdown");
+
+        button.addEventListener("click", (e) => {
+        e.stopPropagation();
+        menu.classList.toggle("active");
+        });
+
+        document.addEventListener("click", () => {
+        menu.classList.remove("active");
+        });
+
+        menu.addEventListener("click", (e) => {
+        e.stopPropagation();
+        });
+    </script>
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>

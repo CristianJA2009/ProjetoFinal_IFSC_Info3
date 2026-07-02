@@ -43,3 +43,29 @@ if (formRegister) {
 
     formRegister.addEventListener("submit", registerValidation)
 }
+
+var formLogin = document.getElementById("formLogin");
+
+if (formLogin) {
+    loginError = document.getElementById("loginError")
+    loginEmail = document.getElementById("loginEmail")
+    loginPassword = document.getElementById("loginPassword")
+
+    //Zera o campo de erro
+    loginError.innerHTML = ""
+
+    //Verifica se algum input está vazio
+    if (loginEmail.value === "" || loginPassword === "") {
+        event.preventDefault()
+        loginError.innerHTML = "Preencha todos os campos"
+        return;
+    }
+
+    //verifica se o email tem @
+    if (!loginError.value.includes("@")) {
+        event.preventDefault()
+        loginError.innerHTML = "Insira um email válido"
+        return;
+    }
+}
+

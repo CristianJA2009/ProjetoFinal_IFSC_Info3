@@ -78,13 +78,12 @@ public class RegistroModel : PageModel
             _context.Usuarios.Add(usuario);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("/login/login");
+            return RedirectToPage("/login");
         }
         catch (Exception ex)
         {
-            var erroReal = ex.InnerException != null ? ex.InnerException.Message : ex.Message;
 
-            ViewData["ErrorMessage"] = $"Ocorreu um erro ao registrar o usuário: {erroReal}";
+            ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o usuário";
             return Page();
         }
     }

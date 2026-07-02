@@ -5,6 +5,10 @@
     ViewData["Title"] = "Home Page";
 }
 
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Services.UsuarioSessao Usuario
+    
     <main id="container">
         <h1 style="text-align: left;">Destaques e Promoções</h1>
         <section id="highlightArea">
