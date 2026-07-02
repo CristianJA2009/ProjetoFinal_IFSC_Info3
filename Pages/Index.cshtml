@@ -8,62 +8,55 @@
 @using Microsoft.AspNetCore.Http
 @inject IHttpContextAccessor HttpContextAccessor
 @inject Services.UsuarioSessao Usuario
+
     
-    <main id="container">
-        <h1 style="text-align: left;">Destaques e Promoções</h1>
-        <section id="highlightArea">
-            <div id="caroussel">
-                <div id="carousselImg">
-                    <img src="~/img/rayman.webp" alt="Image Braba">
+@if (Usuario.Tipo == "admin")
+{
+    <button><a asp-page="/jogo/addGame">Adicionar Jogos</a></button>
+}
+
+<main id="container">
+    <h1 style="text-align: left;">Destaques e Promoções</h1>
+    <section id="highlightArea">
+        <div id="caroussel">
+            <div id="carousselImg">
+                <img src="~/img/rayman.webp" alt="Image Braba">
+            </div>
+            <div id=carousselInfo>
+                <div id="carousselName">
+                    <h2>Rayman Legends</h2>
                 </div>
-                <div id=carousselInfo>
-                    <div id="carousselName">
-                        <h2>Rayman Legends</h2>
-                    </div>
-                    <div id="carousselPrice">
-                        <h2>R$ 29,90</h2>
-                    </div>
+                <div id="carousselPrice">
+                    <h2>R$ 29,90</h2>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <h1>Catálogo</h1>
-        <section id="catalogArea">
-            <div id="catalogLine">
-                <a asp-page="/jogo/jogo">
-                    <div id="card">
-                        <div id="cardImg">
-                            <img src="~/img/image.jpg" alt="">
+    <h1>Catálogo</h1>
+    <section id="catalogArea">
+        <div id="catalogLine">
+            @if (Model.TemJogos)
+            {
+                @foreach (var game in Model.Jogos)
+                {
+                    <a asp-page="/jogo/@game.Id">
+                        <div id="card">
+                            <div id="cardImg">
+                                <img src="~/img/jogos/@game.capa" alt="">
+                            </div>
+                            <div id="cardInfo">
+                                <h3>@game.nome</h3>
+                                <h3>@game.valor</h3>
+                            </div>
                         </div>
-                        <div id="cardInfo">
-                            <h3>Rayman Origins</h3>
-                            <h3>R$39,90</h3>
-                        </div>
-                    </div>
-                </a>
-                <a asp-page="/jogo/jogo">
-                    <div id="card">
-                        <div id="cardImg">
-                            <img src="~/img/image.jpg" alt="">
-                        </div>
-                        <div id="cardInfo">
-                            <h3>Rayman Origins</h3>
-                            <h3>R$39,90</h3>
-                        </div>
-                    </div>
-                </a>
-                <a asp-page="/jogo/jogo">
-                    <div id="card">
-                        <div id="cardImg">
-                            <img src="~/img/image.jpg" alt="">
-                        </div>
-                        <div id="cardInfo">
-                            <h3>Rayman Origins</h3>
-                            <h3>R$39,90</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
+                    </a>
+                }
+            } else
+            {
+                <h3>Não há jogos cadastrados!</h3>
+            }
+        </div>
 
-        </section>
-    </main>
+    </section>
+</main>
