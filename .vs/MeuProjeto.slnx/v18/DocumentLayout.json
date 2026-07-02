@@ -1,93 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\",
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\jogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\jogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\services\\usuariosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:services\\usuariosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\jogo\\deletar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\deletar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\services\\usuariosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:services\\usuariosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260630051831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\legendsstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\vboxuser\\documents\\games\\projetofinal_ifsc_info3\\models\\legendsstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\legendsstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260630052451_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260630052232_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260630052053_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,32 +125,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "addGame.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
-              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:39:09.775Z",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAYwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-02T07:34:10.215Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "addGame.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
-              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
-              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T08:10:56.332Z",
+              "WhenOpened": "2026-07-02T05:05:39.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jogo.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\jogo.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\jogo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T20:13:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jogo.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\jogo\\jogo.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml.cs",
+              "RelativeToolTip": "Pages\\jogo\\jogo.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T20:10:28.966Z",
               "EditorCaption": ""
             },
             {
@@ -131,13 +187,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "deletar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\jogo\\deletar.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml.cs",
+              "RelativeToolTip": "Pages\\jogo\\deletar.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T19:27:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T17:12:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:00:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T04:42:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Jogo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
               "RelativeDocumentMoniker": "Models\\Jogo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Jogo.cs",
               "RelativeToolTip": "Models\\Jogo.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T08:33:33.63Z",
               "EditorCaption": ""
@@ -145,23 +253,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Title": "addGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T05:05:39.583Z",
+              "WhenOpened": "2026-07-02T08:10:56.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "deletar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\deletar.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\deletar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T19:27:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\perfil.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
+              "RelativeToolTip": "Pages\\conta\\perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T19:34:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addGame.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
+              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwEYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:39:09.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:38:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\login.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T19:57:48.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:45:58.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registro.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\registro.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T20:04:00.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioSession.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Services\\UsuarioSession.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioSession.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Services\\UsuarioSession.cs",
+              "RelativeToolTip": "Services\\UsuarioSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:18:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
               "RelativeToolTip": "Pages\\conta\\login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -169,36 +381,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAADEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-02T07:34:10.215Z",
+              "DocumentIndex": 17,
+              "Title": "logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml",
+              "RelativeToolTip": "Pages\\conta\\logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T07:45:55.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Carrinho.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
-              "RelativeDocumentMoniker": "Models\\Carrinho.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
-              "RelativeToolTip": "Models\\Carrinho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T17:28:00.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
               "RelativeToolTip": "Pages\\conta\\registro.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -207,97 +407,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "registro.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\registro.cshtml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwCQAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
+              "RelativeDocumentMoniker": "Models\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Carrinho.cs",
+              "RelativeToolTip": "Models\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T20:04:00.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T17:28:00.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml.cs",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T04:42:46.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "20260630052053_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260630052053_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260630052053_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T05:20:53.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\login.cshtml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA0wCoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T19:57:48.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml",
-              "RelativeToolTip": "Pages\\conta\\logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T07:45:55.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:45:58.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioSession.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Services\\UsuarioSession.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioSession.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Services\\UsuarioSession.cs",
-              "RelativeToolTip": "Services\\UsuarioSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:18:41.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -305,34 +443,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "20260630052451_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260630052451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260630052451_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T05:24:52.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "20260630051831_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260630051831_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260630051831_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T05:18:32.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\Categoria.cs",
               "RelativeToolTip": "Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +478,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "LegendsStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\LegendsStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\LegendsStoreContext.cs",
               "RelativeDocumentMoniker": "Models\\LegendsStoreContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\LegendsStoreContext.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Games\\ProjetoFinal_IFSC_Info3\\Models\\LegendsStoreContext.cs",
               "RelativeToolTip": "Models\\LegendsStoreContext.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,24 +490,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "ViewState": "AgIAALcCAAAAAAAAAAAvwMECAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2026-06-26T19:21:36.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "20260630052232_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260630052232_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260630052232_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T05:22:33.155Z"

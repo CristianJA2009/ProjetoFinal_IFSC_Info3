@@ -16,7 +16,7 @@ namespace MeuProjeto.Pages.jogo
 
         [BindProperty]
         public string GameName { get; set; }
-        
+
         [BindProperty]
         public string GameDescription { get; set; }
 
@@ -24,10 +24,10 @@ namespace MeuProjeto.Pages.jogo
         public float GameValue { get; set; }
 
         [BindProperty]
-        public string GameImg { get; set; }
+        public IFormFile GameImg { get; set; }
 
         [BindProperty]
-        public string GameBanner { get; set; }
+        public IFormFile GameBanner { get; set; }
 
         [BindProperty]
         public int GameCategory { get; set; }
@@ -37,8 +37,8 @@ namespace MeuProjeto.Pages.jogo
             return string.IsNullOrEmpty(GameName) ||
                    string.IsNullOrEmpty(GameDescription) ||
                    string.IsNullOrEmpty(Convert.ToString(GameValue)) ||
-                   string.IsNullOrEmpty(GameImg) ||
-                   string.IsNullOrEmpty(GameBanner);
+                   GameImg == null ||
+                   GameBanner == null;
         }
 
         public List<Categoria> Categorias { get; set; }
@@ -66,6 +66,30 @@ namespace MeuProjeto.Pages.jogo
 
             ViewData["ErrorMessage"] = null;
 
+            string ImgName = Path.GetFileName(GameImg.FileName);
+            string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
+            string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
+            string pasta = Path.Combine(
+                           Directory.GetCurrentDirectory(),
+                           "wwwroot",
+                           "uploads");
+
+            string caminho = Path.Combine(pasta, GameImgPath);
+
+            using (var stream = new FileStream(caminho, FileMode.Create))
+            {
+                await GameImg.CopyToAsync(stream);
+            }
+
+            string BannerName = Path.GetFileName(GameBanner.FileName);
+            string extensionBanner = Path.GetExtension(BannerName);
+            string GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
+
+            using (var stream = new FileStream(caminho, FileMode.Create))
+            {
+                await GameBanner.CopyToAsync(stream);
+            }
+
             try
             {
 
@@ -74,8 +98,8 @@ namespace MeuProjeto.Pages.jogo
                     nome = GameName,
                     descricao = GameDescription,
                     valor = GameValue,
-                    capa = GameImg,
-                    banner = GameImg,
+                    capa = GameImgPath,
+                    banner = GameBannerPath,
                     criado_em = DateTime.Today,
                     categoriaId = GameCategory
                 };

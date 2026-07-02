@@ -12,7 +12,7 @@
     
 @if (Usuario.Tipo == "admin")
 {
-    <button><a asp-page="/jogo/addGame">Adicionar Jogos</a></button>
+    <a asp-page="/jogo/addGame">Adicionar Jogos</a>
 }
 
 <main id="container">
@@ -40,17 +40,24 @@
             {
                 @foreach (var game in Model.Jogos)
                 {
-                    <a asp-page="/jogo/@game.Id">
                         <div id="card">
                             <div id="cardImg">
-                                <img src="~/img/jogos/@game.capa" alt="">
+                                <img src="~/uploads/@game.capa" alt="">
                             </div>
                             <div id="cardInfo">
                                 <h3>@game.nome</h3>
-                                <h3>@game.valor</h3>
+                                <h3>@game.valor.ToString("C")</h3>
+                                <a asp-page="/jogo/jogo" asp-route-id="@game.Id">Ver Detalhes</a>
+                                @if (Usuario.Tipo == "admin")
+                                {
+                                    <div id="cardButtons">
+                                        <a asp-page="/jogo/deletar" asp-route-id="@game.Id">Deletar</a>
+                                        <a asp-page="/jogo/editar" asp-route-id="@game.Id">Editar</a>
+                                    </div>
+                                }
                             </div>
                         </div>
-                    </a>
+                    
                 }
             } else
             {

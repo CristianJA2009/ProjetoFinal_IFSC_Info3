@@ -16,9 +16,9 @@ public class IndexModel : PageModel
         _context = context;
     }
     public bool TemJogos {  get; set; }
-    public void OnGet()
+    public async Task OnGetAsync()
     {
-        Jogos = _context.Jogos.ToList();
-        TemJogos = _context.Jogos.Any();
+        Jogos = await _context.Jogos.ToListAsync();
+        TemJogos = await _context.Jogos.AnyAsync();
     }
 }

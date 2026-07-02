@@ -6,17 +6,19 @@
 }
 
 <main id="container">
-    <form id="gameForm" method="post">
+    <form id="gameForm" method="post" enctype="multipart/form-data">
         <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" />
         <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" />
-        <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" />
-        <input type="text" asp-for="GameImg" placeholder="Capa" id="gameImg" />
-        <input type="text" asp-for="GameBanner" placeholder="Banner" id="gameBanner" />
+        <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01"/>
+        <label for="gameImg">Banner</label>
+        <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg" />
+        <label for="gameBanner">Capa</label>
+        <input type="file" asp-for="GameBanner" placeholder="Capa" id="gameBanner" />
         <label for="gameCategory">Categoria</label>
         <select asp-for="GameCategory" id="gameCategory">
             @foreach (var category in Model.Categorias)
             {
-                <option value="@category.Id">@category.nome</option>
+                <option style="text-align: center;" value="@category.Id">@category.nome</option>
             }
         </select>
         <button type="submit" id="gameButton">Enviar</button>

@@ -174,7 +174,6 @@ a {
     padding: 20px;
     gap: 20px;
     box-shadow: 0px 10px 5px 0px rgba(0, 0, 0, 0.3);
-    cursor: pointer;
 }
 
 #cardInfo {
@@ -184,6 +183,13 @@ a {
     border-radius: 15px;
     place-items: center;
     height: 100%;
+    padding: 10px;
+}
+
+#cardButtons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
 }
 
 #cardImg img {

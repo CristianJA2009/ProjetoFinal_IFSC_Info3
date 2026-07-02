@@ -32,19 +32,27 @@
         <div id="userArea">
             <button><a asp-page="/carrinho/carrinho"><img src="~/img/cart.png" alt="Cart"></a></button>
 
-            <div class="dropdown">
-                <button class="button" id="userButton">
-                    <img src="~/img/user.png" alt="Usuário">
-                </button>
+            @if (Usuario.Tipo != null)
+            {
+                <div class="dropdown">
+                    <button class="button" id="userButton">
+                        <img src="~/img/user.png" alt="Usuário">
+                    </button>
 
-                <div class="dropdown-menu" id="userDropdown">
-                    <a asp-page="/conta/perfil">Meu Perfil</a>
+                    <div class="dropdown-menu" id="userDropdown">
+                        <a asp-page="/conta/perfil">Meu Perfil</a>
 
-                    <hr>
+                        <hr>
 
-                    <a asp-page="/conta/logout">Sair</a>
+                        <a asp-page="/conta/logout">Sair</a>
+                    </div>
+
                 </div>
-            </div>
+            }
+            else
+            {
+                <button><a asp-page="/conta/login"><img src="~/img/user.png" alt="Usuário"></a></button>
+            }
         </div>
     </header>
 
@@ -59,21 +67,21 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-        const button = document.getElementById("userButton");
-        const menu = document.getElementById("userDropdown");
+            const button = document.getElementById("userButton");
+            const menu = document.getElementById("userDropdown");
 
-        button.addEventListener("click", (e) => {
-        e.stopPropagation();
-        menu.classList.toggle("active");
-        });
+            button.addEventListener("click", (e) => {
+            e.stopPropagation();
+            menu.classList.toggle("active");
+            });
 
-        document.addEventListener("click", () => {
-        menu.classList.remove("active");
-        });
+            document.addEventListener("click", () => {
+            menu.classList.remove("active");
+            });
 
-        menu.addEventListener("click", (e) => {
-        e.stopPropagation();
-        });
+            menu.addEventListener("click", (e) => {
+            e.stopPropagation();
+            });
     </script>
 
     @await RenderSectionAsync("Scripts", required: false)
