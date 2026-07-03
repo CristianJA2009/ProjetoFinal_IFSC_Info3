@@ -5,44 +5,44 @@
     ViewData["Title"] = "Registro";
 }
 <body class='bodyAlt'>
-<main id="container">
-    <form id='formRegister' method="post">
-    <div class='divUser'>
-        <h1>Criar Conta</h1>
-        <div class='divIco'>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-icon lucide-user">
-                <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/>
-                <circle cx="12" cy="7" r="4"/>
-            </svg>
-            <input type='text' asp-for="RegisterName" placeholder='Nome de Usuário' id='registerName' required>
+    <main id="container">
+        <form id='formRegister' method="post">
+            <div class='divUser'>
+                <h1>Criar Conta</h1>
+                <div class='divIco'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-icon lucide-user">
+                        <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
+                        <circle cx="12" cy="7" r="4" />
+                    </svg>
+                    <input type='text' asp-for="RegisterName" placeholder='Nome de Usuário' id='registerName' required>
+                </div>
+                <div class='divIco'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-at-sign-icon lucide-at-sign">
+                        <circle cx="12" cy="12" r="4" />
+                        <path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8" />
+                    </svg>
+                    <input type='email' asp-for="RegisterEmail" placeholder='Email' id='registerEmail' required>
+                </div>
+                <div class='divIco'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock-icon lucide-lock">
+                        <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+                        <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+                    </svg>
+                    <input type='password' asp-for="RegisterPassword" placeholder='Senha (minímo 8 caracteres)' id='registerPassword' required>
+                </div>
+                <div class='divIco'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock-icon lucide-lock">
+                        <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+                        <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+                    </svg>
+                    <input type='password' asp-for="RegisterVerifyPassword" placeholder='Confirme sua senha' id='registerVerifyPassword' required>
+                </div>
+                <button type='submit' id='registerSubmitBtn'>Criar</button>
+                <br />
+                <span id="registerError" style="color: red">@ViewData["ErrorMessage"]</span>
+            </form>
+            <h1 class='subForm'>Já tem uma conta? <button type="button" class='subBtn'><a asp-page="/conta/login">Entrar</a></button></h1>
         </div>
-        <div class='divIco'>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-at-sign-icon lucide-at-sign">
-                <circle cx="12" cy="12" r="4"/>
-                <path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"/>
-            </svg>
-            <input type='email' asp-for="RegisterEmail" placeholder='Email' id='registerEmail' required>
-        </div>
-        <div class='divIco'>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock-icon lucide-lock">
-                <rect width="18" height="11" x="3" y="11" rx="2" ry="2"/>
-                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-            </svg>
-            <input type='password' asp-for="RegisterPassword" placeholder='Senha (minímo 8 caracteres)' id='registerPassword' required>
-        </div>
-        <div class='divIco'>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock-icon lucide-lock">
-                <rect width="18" height="11" x="3" y="11" rx="2" ry="2"/>
-                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-            </svg>
-            <input type='password' asp-for="RegisterVerifyPassword" placeholder='Confirme sua senha' id='registerVerifyPassword' required>
-        </div>
-        <button type='submit' id='registerSubmitBtn'>Criar</button>
-        <br/>
-        <span id="registerError" style="color: red">@ViewData["ErrorMessage"]</span>
-    </form>
-        <h1 class='subForm'>Já tem uma conta? <button type="button" class='subBtn'><a asp-page="/login/login">Entrar</a></button></h1>
-    </div>
-</main>
+    </main>
 </body>
 

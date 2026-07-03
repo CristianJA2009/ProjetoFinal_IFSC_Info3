@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MeuProjeto.Migrations
 {
     [DbContext(typeof(LegendsStoreContext))]
-    [Migration("20260701172901_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20260703201117_InitalCreate")]
+    partial class InitalCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

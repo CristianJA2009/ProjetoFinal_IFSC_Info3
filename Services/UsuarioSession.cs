@@ -15,12 +15,12 @@
         public string? Tipo =>
             _httpContextAccessor.HttpContext?.Session.GetString("UsuarioTipo");
 
-        public int? Id
+        public string? Id
         {
             get
             {
                 var id = _httpContextAccessor.HttpContext?.Session.GetString("UsuarioId");
-                return int.TryParse(id, out var valor) ? valor : null;
+                return id;
             }
         }
 

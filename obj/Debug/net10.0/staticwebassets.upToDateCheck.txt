@@ -76,11 +76,13 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\uploads\b546aa0631a3470fae3c441e24db1bf2.png
-wwwroot\uploads\bed41c4e78544b1a8699e5cceeb91671.png
-wwwroot\uploads\cf282a8ab158474cb4d80e87288e50db.png
 wwwroot\uploads\25ce297820574079b3c2eb362005d2fb.webp
 wwwroot\uploads\9bd5c96a0e0647349a57ab7019c66c3c.jpg
+wwwroot\uploads\b546aa0631a3470fae3c441e24db1bf2.png
+wwwroot\uploads\ba29746b2d534f48a14add25dcc6aa37.jpg
+wwwroot\uploads\bed41c4e78544b1a8699e5cceeb91671.png
+wwwroot\uploads\cf282a8ab158474cb4d80e87288e50db.png
+wwwroot\uploads\f62dc2e50a0a4cf0bce8758ee2a014f2.webp
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\at.svg
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\css\eye.svg
 C:\Users\vboxuser\Documents\Games\ProjetoFinal_IFSC_Info3\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

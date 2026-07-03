@@ -78,7 +78,7 @@ public class RegistroModel : PageModel
             _context.Usuarios.Add(usuario);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("/login");
+            return RedirectToPage("/conta/login");
         }
         catch (Exception ex)
         {
