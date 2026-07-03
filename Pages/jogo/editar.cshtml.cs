@@ -121,7 +121,7 @@ namespace MeuProjeto.Pages.jogo
             //tenta atualizar o objeto de jogo
             try
             {
-                //variavel que recebe as informações dos inputs
+                //objeto de jogo recebe as informações dos inputs
                 Jogo = new Jogo
                 {
                     nome = GameName,
