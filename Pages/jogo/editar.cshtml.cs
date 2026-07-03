@@ -124,6 +124,7 @@ namespace MeuProjeto.Pages.jogo
                 //objeto de jogo recebe as informações dos inputs
                 Jogo = new Jogo
                 {
+                    Id = Id,
                     nome = GameName,
                     descricao = GameDescription,
                     valor = GameValue,
