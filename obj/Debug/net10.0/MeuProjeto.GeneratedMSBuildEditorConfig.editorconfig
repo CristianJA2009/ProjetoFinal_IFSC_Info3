@@ -17,76 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
-build_property.EntryPointFilePath = 
 build_property.RootNamespace = MeuProjeto
 build_property.RootNamespace = MeuProjeto
-build_property.ProjectDir = C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3\
+build_property.ProjectDir = /home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 10.0
+build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\codigos\ProjetoFinal_IFSC_Info3\ProjetoFinal_IFSC_Info3
+build_property.MSBuildProjectDirectory = /home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/carrinho/carrinho.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FycmluaG9cY2FycmluaG8uY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/carrinho/carrinho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2FycmluaG8vY2FycmluaG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/conta/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFcbG9naW4uY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/conta/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY29udGEvbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/conta/logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFcbG9nb3V0LmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/conta/logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY29udGEvbG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/conta/perfil.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFccGVyZmlsLmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/conta/perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY29udGEvcGVyZmlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/conta/registro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFccmVnaXN0cm8uY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/conta/registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY29udGEvcmVnaXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/jogo/addGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcam9nb1xhZGRHYW1lLmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/jogo/addGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvam9nby9hZGRHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/jogo/deletar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcam9nb1xkZWxldGFyLmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/jogo/deletar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvam9nby9kZWxldGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/jogo/editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcam9nb1xlZGl0YXIuY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/jogo/editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvam9nby9lZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/jogo/jogo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcam9nb1xqb2dvLmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/jogo/jogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvam9nby9qb2dvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/pagamento/pagamento.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnYW1lbnRvXHBhZ2FtZW50by5jc2h0bWw=
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/pagamento/pagamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvcGFnYW1lbnRvL3BhZ2FtZW50by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/codigos/ProjetoFinal_IFSC_Info3/ProjetoFinal_IFSC_Info3/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-i1aoq39zl2
+[/home/matheus/Documentos/codigos/projetoFinal/ProjetoFinal_IFSC_Info3/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a1hr9gpbsj

@@ -7,6 +7,7 @@ namespace MeuProjeto.Pages.jogo
 {
     public class addGameModel : PageModel
     {
+        //Construtor do context
         private readonly LegendsStoreContext _context;
 
         public addGameModel(LegendsStoreContext context)
@@ -14,6 +15,7 @@ namespace MeuProjeto.Pages.jogo
             _context = context;
         }
 
+        //propriedades que recebem os valores do input
         [BindProperty]
         public string GameName { get; set; }
 
@@ -32,6 +34,7 @@ namespace MeuProjeto.Pages.jogo
         [BindProperty]
         public int GameCategory { get; set; }
 
+        //função para verificar se há campos vazios
         public bool EmptyForm()
         {
             return string.IsNullOrEmpty(GameName) ||
@@ -41,8 +44,10 @@ namespace MeuProjeto.Pages.jogo
                    GameBanner == null;
         }
 
+        //cria um objeto de lista das categorias
         public List<Categoria> Categorias { get; set; }
 
+        //o objeto recebe as categorias
         public void OnGet()
         {
             Categorias = _context.Categorias.ToList();
@@ -57,7 +62,7 @@ namespace MeuProjeto.Pages.jogo
                 return Page();
             }
 
-            // 2. Validação de senhas iguais
+            // 2. Validação de float
             if (float.IsNaN(GameValue))
             {
                 ViewData["ErrorMessage"] = "O valor deve ser um número";
@@ -66,20 +71,21 @@ namespace MeuProjeto.Pages.jogo
 
             ViewData["ErrorMessage"] = null;
 
-            string ImgName = Path.GetFileName(GameImg.FileName);
+            //Salvamento das imagens
+            string ImgName = Path.GetFileName(GameImg.FileName);//Pega o nome do arquivo
             string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
             string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
 
             string pasta = Path.Combine(
-                           Directory.GetCurrentDirectory(),
+                           Directory.GetCurrentDirectory(), //Pega o caminho do diretorio atual e adiciona o /wwwroot/uploads/
                            "wwwroot",
                            "uploads");
 
-            string caminhoImg = Path.Combine(pasta, GameImgPath);
+            string caminhoImg = Path.Combine(pasta, GameImgPath); //junta o caminho da pasta com o nome da imagem
 
-            using (var stream = new FileStream(caminhoImg, FileMode.Create))
+            using (var stream = new FileStream(caminhoImg, FileMode.Create)) //faz o upload da imagem no caminho destinado
             {
-                await GameImg.CopyToAsync(stream);
+                await GameImg.CopyToAsync(stream); 
             }
 
 
@@ -94,7 +100,7 @@ namespace MeuProjeto.Pages.jogo
                 await GameBanner.CopyToAsync(stream);
             }
 
-            try
+            try //tenta adicionar o jogo no banco
             {
 
                 var jogo = new Jogo
@@ -112,8 +118,8 @@ namespace MeuProjeto.Pages.jogo
                 await _context.SaveChangesAsync();
 
                 return RedirectToPage("/Index");
-            }
-            catch (Exception ex)
+            } 
+            catch (Exception) //senão ele retorna um erro e recarrega a pagina
             {
 
                 ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o usuário";

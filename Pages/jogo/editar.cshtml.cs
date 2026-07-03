@@ -9,6 +9,7 @@ namespace MeuProjeto.Pages.jogo
 {
     public class editarModel : PageModel
     {
+        //construtor do context
         private readonly LegendsStoreContext _context;
 
         public editarModel(LegendsStoreContext context)
@@ -16,6 +17,7 @@ namespace MeuProjeto.Pages.jogo
             _context = context;
         }
 
+        //propriedades que recebem os inputs
         [BindProperty]
         public string GameName { get; set; }
 
@@ -34,6 +36,7 @@ namespace MeuProjeto.Pages.jogo
         [BindProperty]
         public int GameCategory { get; set; }
 
+        //função que verifica input vazio
         public bool EmptyForm()
         {
             return string.IsNullOrEmpty(GameName) ||
@@ -43,16 +46,18 @@ namespace MeuProjeto.Pages.jogo
                    GameBanner == null;
         }
 
+        //objetos de lista de categorias e do jogo
         public List<Categoria> Categorias { get; set; }
         public Jogo Jogo { get; set; }
 
+        //objetos recebem os valores
         public void OnGet(int Id)
         {
             Categorias = _context.Categorias.ToList();
             Jogo = _context.Jogos.FirstOrDefault(j => j.Id == Id);
         }
 
-        public async Task<IActionResult> OnPostAsync()
+        public async Task<IActionResult> OnPostAsync(int Id)
         {
             // 1. Validação de campos vazios
             if (EmptyForm())
@@ -61,7 +66,7 @@ namespace MeuProjeto.Pages.jogo
                 return Page();
             }
 
-            // 2. Validação de senhas iguais
+            // 2. Validação de float
             if (float.IsNaN(GameValue))
             {
                 ViewData["ErrorMessage"] = "O valor deve ser um número";
@@ -70,6 +75,7 @@ namespace MeuProjeto.Pages.jogo
 
             ViewData["ErrorMessage"] = null;
 
+            //uploads de imagens
             string GameImgPath;
             string GameBannerPath;
 
@@ -83,9 +89,9 @@ namespace MeuProjeto.Pages.jogo
                 GameImgPath = Jogo.capa;
             } else
             {
-                string ImgName = Path.GetFileName(GameImg.FileName);
+                string ImgName = Path.GetFileName(GameImg.FileName); //Pega o nome do arquivo
                 string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
-                GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
+                GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo com sua extensão
 
                 string caminhoImg = Path.Combine(pasta, GameImgPath);
 
@@ -112,10 +118,11 @@ namespace MeuProjeto.Pages.jogo
                 }
             }
 
+            //tenta atualizar o objeto de jogo
             try
             {
-
-                var jogo = new Jogo
+                //variavel que recebe as informações dos inputs
+                Jogo = new Jogo
                 {
                     nome = GameName,
                     descricao = GameDescription,
@@ -126,15 +133,17 @@ namespace MeuProjeto.Pages.jogo
                     categoriaId = GameCategory
                 };
 
-                _context.Jogos.Add(jogo);
+                //atualiza
+                _context.Jogos.Update(Jogo);
                 await _context.SaveChangesAsync();
 
                 return RedirectToPage("/Index");
             }
-            catch (Exception ex)
+            //senão retorna erro
+            catch (Exception ex) 
             {
 
-                ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o usuário";
+                ViewData["ErrorMessage"] = $"Ocorreu um erro ao atualizar o usuário: {ex}";
                 return Page();
             }
         }
