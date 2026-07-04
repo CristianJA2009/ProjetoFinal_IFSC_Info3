@@ -13,6 +13,7 @@
 @if (Usuario.Tipo == "admin")
 {
     <a asp-page="/jogo/addGame">Adicionar Jogos</a>
+    <a asp-page="/jogo/addCategoria">Adicionar Categorias</a>
 }
 
 <main id="container">
@@ -20,14 +21,15 @@
     <section id="highlightArea">
         <div id="caroussel">
             <div id="carousselImg">
-                <img src="~/img/rayman.webp" alt="Image Braba">
+                <img src="~/uploads/@Model.JogoEscolhido.capa">
             </div>
             <div id=carousselInfo>
                 <div id="carousselName">
-                    <h2>Rayman Legends</h2>
+                    <h2>@Model.JogoEscolhido.nome</h2>
                 </div>
                 <div id="carousselPrice">
-                    <h2>R$ 29,90</h2>
+                    <h2>@Model.JogoEscolhido.valor</h2>
+                    <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id">Ver Detalhes</a></h2>
                 </div>
             </div>
         </div>
@@ -38,28 +40,28 @@
         <div id="catalogLine">
             @if (Model.TemJogos)
             {
-                @foreach (var game in Model.Jogos)
+                foreach (var game in Model.Jogos)
                 {
-                        <div id="card">
-                            <div id="cardImg">
-                                <img src="~/uploads/@game.capa" alt="">
-                            </div>
-                            <div id="cardInfo">
-                                <h3>@game.nome</h3>
-                                <h3>@game.valor.ToString("C")</h3>
-                                <a asp-page="/jogo/jogo" asp-route-id="@game.Id">Ver Detalhes</a>
-                                @if (Usuario.Tipo == "admin")
-                                {
-                                    <div id="cardButtons">
-                                        <a asp-page="/jogo/deletar" asp-route-id="@game.Id">Deletar</a>
-                                        <a asp-page="/jogo/editar" asp-route-id="@game.Id">Editar</a>
-                                    </div>
-                                }
-                            </div>
+                    <div id="card">
+                        <div id="cardImg">
+                            <img src="~/uploads/@game.capa" alt="">
                         </div>
-                    
+                        <div id="cardInfo">
+                            <h3>@game.nome</h3>
+                            <h3>@game.valor.ToString("C")</h3>
+                            <a asp-page="/jogo/jogo" asp-route-id="@game.Id">Ver Detalhes</a>
+                            @if (Usuario.Tipo == "admin")
+                            {
+                                <div id="cardButtons">
+                                    <a asp-page="/jogo/deletar" asp-route-id="@game.Id">Deletar</a>
+                                    <a asp-page="/jogo/editar" asp-route-id="@game.Id">Editar</a>
+                                </div>
+                            }
+                        </div>
+                    </div>
                 }
-            } else
+            }
+            else
             {
                 <h3>Não há jogos cadastrados!</h3>
             }

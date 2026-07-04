@@ -17,16 +17,17 @@
 
 <body>
     @using Microsoft.AspNetCore.Http
-    @inject IHttpContextAccessor HttpContextAccessor
-    @inject Services.UsuarioSessao Usuario
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Services.UsuarioSessao Usuario
 
 <header id="header">
         <div id="logoArea">
             <a href="/"><img id="logo" src="~/img/largeicon.png" alt="logo" /></a>
         </div>
         <div id="searchArea">
-            <form action="" method="post">
-                <input type="text" name="searchInput" id="searchInput">
+            <form method="get" asp-page="/Index">
+                <input type="text" name="Search" id="searchInput" value="@ViewData["Search"]" placeholder="Buscar jogo..."> <!--retorna ?Search= na pesquisa por conta do nome-->
+                @await Component.InvokeAsync("MenuCategorias");
             </form>
         </div>
         <div id="userArea">
@@ -67,21 +68,21 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-            const button = document.getElementById("userButton");
-            const menu = document.getElementById("userDropdown");
+        const button = document.getElementById("userButton");
+        const menu = document.getElementById("userDropdown");
 
-            button.addEventListener("click", (e) => {
-            e.stopPropagation();
-            menu.classList.toggle("active");
-            });
+        button.addEventListener("click", (e) => {
+        e.stopPropagation();
+        menu.classList.toggle("active");
+        });
 
-            document.addEventListener("click", () => {
-            menu.classList.remove("active");
-            });
+        document.addEventListener("click", () => {
+        menu.classList.remove("active");
+        });
 
-            menu.addEventListener("click", (e) => {
-            e.stopPropagation();
-            });
+        menu.addEventListener("click", (e) => {
+        e.stopPropagation();
+        });
     </script>
 
     @await RenderSectionAsync("Scripts", required: false)

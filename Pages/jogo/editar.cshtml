@@ -11,7 +11,7 @@
         <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" value="@Model.Jogo.descricao" />
         <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01" value="@Model.Jogo.valor" />
         <label for="gameImg">Capa (deixe em branco para manter a atual)</label>
-        <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg" />
+        <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg"/>
         <label for="gameBanner">Banner (deixe em branco para manter a atual)</label>
         <input type="file" asp-for="GameBanner" placeholder="Capa" id="gameBanner" />
         <label for="gameCategory">Categoria</label>
@@ -31,4 +31,6 @@
         </select>
         <button type="submit" id="gameButton">Enviar</button>
     </form>
+
+    <span>@ViewData["ErrorMessage"]</span>
 </main>

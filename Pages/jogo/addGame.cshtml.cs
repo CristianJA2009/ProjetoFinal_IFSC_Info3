@@ -40,8 +40,8 @@ namespace MeuProjeto.Pages.jogo
             return string.IsNullOrEmpty(GameName) ||
                    string.IsNullOrEmpty(GameDescription) ||
                    string.IsNullOrEmpty(Convert.ToString(GameValue)) ||
-                   GameImg == null ||
-                   GameBanner == null;
+                   (GameImg == null || GameImg.Length == 0)||
+                   (GameBanner == null || GameBanner.Length == 0);
         }
 
         //cria um objeto de lista das categorias
@@ -55,6 +55,8 @@ namespace MeuProjeto.Pages.jogo
 
         public async Task<IActionResult> OnPostAsync()
         {
+            Categorias = _context.Categorias.ToList();
+
             // 1. Validação de campos vazios
             if (EmptyForm())
             {
@@ -63,67 +65,69 @@ namespace MeuProjeto.Pages.jogo
             }
 
             // 2. Validação de float
-            if (float.IsNaN(GameValue))
+            else if (float.IsNaN(GameValue))
             {
                 ViewData["ErrorMessage"] = "O valor deve ser um número";
                 return Page();
             }
-
-            ViewData["ErrorMessage"] = null;
-
-            //Salvamento das imagens
-            string ImgName = Path.GetFileName(GameImg.FileName);//Pega o nome do arquivo
-            string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
-            string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
-
-            string pasta = Path.Combine(
-                           Directory.GetCurrentDirectory(), //Pega o caminho do diretorio atual e adiciona o /wwwroot/uploads/
-                           "wwwroot",
-                           "uploads");
-
-            string caminhoImg = Path.Combine(pasta, GameImgPath); //junta o caminho da pasta com o nome da imagem
-
-            using (var stream = new FileStream(caminhoImg, FileMode.Create)) //faz o upload da imagem no caminho destinado
+            else
             {
-                await GameImg.CopyToAsync(stream); 
-            }
+                ViewData["ErrorMessage"] = null;
 
+                //Salvamento das imagens
+                string ImgName = Path.GetFileName(GameImg.FileName);//Pega o nome do arquivo
+                string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
+                string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
 
-            string BannerName = Path.GetFileName(GameBanner.FileName);
-            string extensionBanner = Path.GetExtension(BannerName);
-            string GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
+                string pasta = Path.Combine(
+                               Directory.GetCurrentDirectory(), //Pega o caminho do diretorio atual e adiciona o /wwwroot/uploads/
+                               "wwwroot",
+                               "uploads");
 
-            string caminhoBanner = Path.Combine(pasta, GameBannerPath);
+                string caminhoImg = Path.Combine(pasta, GameImgPath); //junta o caminho da pasta com o nome da imagem
 
-            using (var stream = new FileStream(caminhoBanner, FileMode.Create))
-            {
-                await GameBanner.CopyToAsync(stream);
-            }
-
-            try //tenta adicionar o jogo no banco
-            {
-
-                var jogo = new Jogo
+                using (var stream = new FileStream(caminhoImg, FileMode.Create)) //faz o upload da imagem no caminho destinado
                 {
-                    nome = GameName,
-                    descricao = GameDescription,
-                    valor = GameValue,
-                    capa = GameImgPath,
-                    banner = GameBannerPath,
-                    criado_em = DateTime.Today,
-                    categoriaId = GameCategory
-                };
+                    await GameImg.CopyToAsync(stream);
+                }
 
-                _context.Jogos.Add(jogo);
-                await _context.SaveChangesAsync();
 
-                return RedirectToPage("/Index");
-            } 
-            catch (Exception) //senão ele retorna um erro e recarrega a pagina
-            {
+                string BannerName = Path.GetFileName(GameBanner.FileName);
+                string extensionBanner = Path.GetExtension(BannerName);
+                string GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
 
-                ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o usuário";
-                return Page();
+                string caminhoBanner = Path.Combine(pasta, GameBannerPath);
+
+                using (var stream = new FileStream(caminhoBanner, FileMode.Create))
+                {
+                    await GameBanner.CopyToAsync(stream);
+                }
+
+                try //tenta adicionar o jogo no banco
+                {
+
+                    var jogo = new Jogo
+                    {
+                        nome = GameName,
+                        descricao = GameDescription,
+                        valor = GameValue,
+                        capa = GameImgPath,
+                        banner = GameBannerPath,
+                        criado_em = DateTime.Today,
+                        categoriaId = GameCategory
+                    };
+
+                    _context.Jogos.Add(jogo);
+                    await _context.SaveChangesAsync();
+
+                    return RedirectToPage("/Index");
+                }
+                catch (Exception) //senão ele retorna um erro e recarrega a pagina
+                {
+
+                    ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o jogo";
+                    return Page();
+                }
             }
         }
     }

@@ -314,6 +314,7 @@ button:hover {
     font-size: 25px;
     padding: 12px;
     display: flex;
+    text-align: center;
 }
 
     .mainTitle svg {

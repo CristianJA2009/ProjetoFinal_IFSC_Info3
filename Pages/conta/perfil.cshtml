@@ -11,7 +11,16 @@
             <h1>Meu Perfil</h1>
         </div>
         <div class="divAccount">
-            <img src="~/img/image.jpg" class='img2' />
+            @if (Model.Usuario.foto == null)
+            {
+                <form method="post" enctype="multipart/form-data">
+                    <label><input hidden type="file" /><img src="~/img/userImg.png" class='img2' /></label>
+                </form>
+            }
+            else
+            {
+                <img src="~/uploads/@Model.Usuario.foto" class='img2' />
+            }
             <div class="divSide">
                 <div class="divRow">
                     <div class="divRow">
@@ -96,7 +105,7 @@
                 <div class="divUser spaceAlt">
                     <div class='divLibrary'>
 
-                        @if (Model.temJogos)
+                        @if (Model.Jogos.Count > 0)
                         {
                             @foreach (var game in Model.Jogos)
                             {
@@ -108,7 +117,7 @@
                         }
                         else
                         {
-                            <h3>Não há jogos cadastrados!</h3>
+                            <h3 style="color: white">Não há jogos cadastrados!</h3>
                         }
                     </div>
                 </div>

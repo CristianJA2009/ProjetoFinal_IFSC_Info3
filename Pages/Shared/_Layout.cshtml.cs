@@ -23,7 +23,5 @@ public class _LayoutModel : PageModel
         }
 
         base.OnPageHandlerExecuting(context);
-
-        
     }
 }

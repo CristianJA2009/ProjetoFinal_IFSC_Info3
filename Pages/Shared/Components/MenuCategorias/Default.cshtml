@@ -1,0 +1,10 @@
+﻿@model List<MeuProjeto.Models.Categoria>
+
+<select name="GameCategory" id="gameCategory" onchange="this.form.submit()">
+    <option style="text-align: center;" value="" selected>Selecionar Categoria</option>
+    @foreach (var category in Model)
+    {
+        <option style="text-align: center;" value="@category.Id">@category.nome</option>
+    }
+    <option style="text-align: center;" value="">Limpar Filtro</option>
+</select>

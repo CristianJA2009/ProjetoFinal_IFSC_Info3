@@ -41,9 +41,7 @@ namespace MeuProjeto.Pages.jogo
         {
             return string.IsNullOrEmpty(GameName) ||
                    string.IsNullOrEmpty(GameDescription) ||
-                   string.IsNullOrEmpty(Convert.ToString(GameValue)) ||
-                   GameImg == null ||
-                   GameBanner == null;
+                   string.IsNullOrEmpty(Convert.ToString(GameValue));
         }
 
         //objetos de lista de categorias e do jogo
@@ -51,7 +49,7 @@ namespace MeuProjeto.Pages.jogo
         public Jogo Jogo { get; set; }
 
         //objetos recebem os valores
-        public void OnGet(int Id)
+        public async Task OnGetAsync(int Id)
         {
             Categorias = _context.Categorias.ToList();
             Jogo = _context.Jogos.FirstOrDefault(j => j.Id == Id);
@@ -59,6 +57,9 @@ namespace MeuProjeto.Pages.jogo
 
         public async Task<IActionResult> OnPostAsync(int Id)
         {
+            Categorias = _context.Categorias.ToList();
+            Jogo = _context.Jogos.AsNoTracking().FirstOrDefault(j => j.Id == Id);
+
             // 1. Validação de campos vazios
             if (EmptyForm())
             {
@@ -84,7 +85,7 @@ namespace MeuProjeto.Pages.jogo
                            "wwwroot",
                            "uploads");
 
-            if (GameImg == null) 
+            if (GameImg == null || GameImg.Length == 0) 
             {
                 GameImgPath = Jogo.capa;
             } else
@@ -101,7 +102,7 @@ namespace MeuProjeto.Pages.jogo
                 }
             }
 
-            if (GameBanner == null) 
+            if (GameBanner == null || GameBanner.Length == 0) 
             { 
                 GameBannerPath = Jogo.banner;
             } else
