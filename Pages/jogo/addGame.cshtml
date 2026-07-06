@@ -6,10 +6,10 @@
 }
 
 <main id="container">
-    <form id="gameForm" method="post" enctype="multipart/form-data">
+    <form id="gameForm" class="flex column" method="post" enctype="multipart/form-data">
         <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" />
         <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" />
-        <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01"/>
+        <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01" min='0'/>
         <label for="gameImg">Capa</label>
         <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg" />
         <label for="gameBanner">Banner</label>

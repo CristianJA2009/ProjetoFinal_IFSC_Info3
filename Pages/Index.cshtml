@@ -12,8 +12,10 @@
     
 @if (Usuario.Tipo == "admin" && ViewData["Search"] == null)
 {
-    <a asp-page="/jogo/addGame">Adicionar Jogos</a>
-    <a asp-page="/jogo/addCategoria">Adicionar Categorias</a>
+    <div class="adminGameButtons flex row">
+        <a asp-page="/jogo/addGame"><button>Adicionar Jogos</button></a>
+        <a asp-page="/jogo/addCategoria"><button>Adicionar Categorias</button></a>
+    </div>
 }
 
 <br>
@@ -41,8 +43,8 @@
                         <h2>@Model.JogoEscolhido.nome</h2>
                     </div>
                     <div id="carousselPrice">
-                        <h2>@Model.JogoEscolhido.valor</h2>
-                        <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id">Ver Detalhes</a></h2>
+                        <h3>R$ @Model.JogoEscolhido.valor</h3>
+                        <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id"><button class="carousselCardDetails">Ver Detalhes</button></a></h2>
                     </div>
                 </div>
             </div>
@@ -64,13 +66,13 @@
                         </div>
                         <div id="cardInfo">
                             <h3>@game.nome</h3>
-                            <h3>@game.valor.ToString("C")</h3>
-                            <a asp-page="/jogo/jogo" asp-route-id="@game.Id">Ver Detalhes</a>
+                            <p>@game.valor.ToString("C")</p>
+                            <a asp-page="/jogo/jogo" asp-route-id="@game.Id"><button class="cardDetails">Ver Detalhes</button></a>
                             @if (Usuario.Tipo == "admin")
                             {
                                 <div id="cardButtons">
-                                    <a asp-page="/jogo/deletar" asp-route-id="@game.Id">Deletar</a>
-                                    <a asp-page="/jogo/editar" asp-route-id="@game.Id">Editar</a>
+                                    <a asp-page="/jogo/deletar" asp-route-id="@game.Id"><button class="adminEditButtons">Deletar</button></a>
+                                    <a asp-page="/jogo/editar" asp-route-id="@game.Id"><button class='adminEditButtons'>Editar</button></a>
                                 </div>
                             }
                         </div>

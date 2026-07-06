@@ -158,6 +158,10 @@ a {
     margin-top: 100px;
 }
 
+.carousselCardDetails {
+    width: 90%;
+}
+
 #catalogLine {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -167,13 +171,14 @@ a {
 
 #card {
     background-color: #154333;
-    height: 500px;
+    height: fit-content;
     width: 300px;
     display: grid;
     grid-template-rows: 7fr 3fr;
     padding: 20px;
     gap: 20px;
     box-shadow: 0px 10px 5px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
 }
 
 #cardInfo {
@@ -184,6 +189,7 @@ a {
     place-items: center;
     height: 100%;
     padding: 10px;
+    margin-top: -5px;
 }
 
 #cardButtons {
@@ -197,6 +203,7 @@ a {
     height: 350px;
     /*width: 233px*/
     object-fit: cover;
+    border-radius: 10px;
 }
 
 #catalogLine a {
@@ -379,6 +386,8 @@ h1 {
 th {
     background-color: #DEF5FB;
     outline: 2px solid #DEF5FB;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .divUser table {
@@ -530,14 +539,15 @@ th, td {
     gap: 35px;
 }
 
-.rowDivGame button {
+.rowDivGameButton {
     background-color: #F9FDFE;
     border: none;
     border-radius: 10px;
-    height: 100%;
+    height: 250%;
+    width: 100%;
 }
 
-    .rowDivGame button:hover {
+    .rowDivGamerowDivGameButton:hover {
         background-color: #DEF5FB;
     }
 
@@ -751,4 +761,135 @@ th, td {
     border-end-end-radius: 10px;
     color: #0b3324;
     font-weight: 500;
+}
+
+.cardDetails, .carousselCardDetails {
+    background-color: #154333;
+    border: none;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.cardDetails:hover, .carousselCardDetails:hover {
+    background-color: #0b3324;
+}
+
+#gameCategory {
+    background-color: #F9FDFE;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.gameCategoryOption {
+    border-radius: 5px;
+}
+
+.adminGameButtons {
+    align-self: center;
+    gap: 15px;
+}
+
+.adminGameButtons button {
+    background-color: #154333;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.adminGameButtons button:hover {
+    background-color: #0b3324;
+}
+
+.adminEditButtons {
+    background-color: #154333;
+    margin-top: 5px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.adminEditButtons:hover {
+    background-color: #0b3324;
+}
+
+#gameForm, #categoriaForm {
+    background-color: #154333;
+    padding: 35px;
+    width: 50%;
+    margin: auto;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+#gameForm input, #categoriaForm input {
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+#gameForm input[type='file'] {
+    background-color: #F9FDFE;
+    padding: 8px;
+}
+
+#gameForm input::file-selector-button {
+    background-color: #154333;
+    border: none;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+#gameForm input::file-selector-button:hover {
+    background-color: #0b3324;
+    cursor: pointer;
+}
+
+#gameForm label {
+    background-color: #F9FDFE;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+#gameForm #gameCategory {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+#gameForm button[type='submit'], #categoriaForm button[type='submit'] {
+    background-color: #F9FDFE;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#gameForm button[type='submit']:hover {
+    background-color: #DEF5FB;
+}
+
+#registerSubmitBtn {
+    background-color: #F9FDFE;
+    width: 65%;
+    margin: auto;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #0b3324;
+}
+
+#registerSubmitBtn:hover {
+    background-color: #DEF5FB;
 }

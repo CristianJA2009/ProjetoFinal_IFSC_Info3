@@ -6,7 +6,7 @@
 }
 
 <main id="container">
-    <form id="gameForm" method="post" enctype="multipart/form-data">
+    <form id="gameForm" class='flex column' method="post" enctype="multipart/form-data">
         <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" value="@Model.Jogo.nome" />
         <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" value="@Model.Jogo.descricao" />
         <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01" value="@Model.Jogo.valor" />
