@@ -10,7 +10,7 @@
 <main id="container">
     @if (Usuario.Tipo == "admin")
     {
-        <button><a asp-route-id="@Usuario.Id" asp-page="/conta/admin/admin">Painel Admin</a></button>
+        <button><a asp-route-id="@Usuario.Id" asp-page="/conta/admin/admin"><button class='adminBtn'>Painel Admin</button></a></button>
     }
     <div class='divUser'>
         <div class='mainTitle altColor'>

@@ -350,6 +350,11 @@ button:hover {
     flex-direction: row;
 }
 
+.divAccount p {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
 .divUser .img2 {
     aspect-ratio: 4 / 4;
     height: 175px;
@@ -892,4 +897,73 @@ th, td {
 
 #registerSubmitBtn:hover {
     background-color: #DEF5FB;
+}
+
+.adminBtn {
+    background-color: #154333;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.adminBtn:hover {
+    background-color: #0b3324;
+}
+
+.userAdmin h2, .gameAdmin h2, .catAdmin h2{
+    background-color: #154333;
+    color: white;
+    width: 25%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+.userAdmin table, .gameAdmin table, .catAdmin table{
+    border: 2px solid #DEF5FB;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px lightgray;
+}
+
+.userAdmin th, .gameAdmin th, .catAdmin th{
+    border-radius: 0px;
+}
+
+.userAdmin td, .gameAdmin td, .catAdmin td{
+    border-bottom: 1px solid #DEF5FB;
+}
+
+.userAdmin button, .gameAdmin button, .catAdmin button {
+    background-color: #154333;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.userAdmin button:hover, .gameAdmin button:hover, .catAdmin button:hover {
+    background-color: #0b3324;
+}
+
+.userAdmin p {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.gameAdmin button {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.userAdmin, .gameAdmin, .catAdmin {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 25px;
+    margin-bottom: 35px;
 }
