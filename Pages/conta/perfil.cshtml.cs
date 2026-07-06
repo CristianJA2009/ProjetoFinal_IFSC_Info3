@@ -2,16 +2,19 @@ using MeuProjeto.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
+using MeuProjeto.Services;
 
 namespace MeuProjeto.Pages.conta
 {
     public class PerfilModel : PageModel
     {
         private readonly LegendsStoreContext _context;
+        private readonly UsuarioSessao _usuario;
 
-        public PerfilModel(LegendsStoreContext context)
+        public PerfilModel(LegendsStoreContext context , UsuarioSessao usuario)
         {
             _context = context;
+            _usuario = usuario;
         }
 
         [BindProperty]
@@ -25,8 +28,15 @@ namespace MeuProjeto.Pages.conta
         public UsuarioJogo UsuarioJogo { get; set; }
         public bool temJogos { get; set; }
 
+        
+
         public async Task<IActionResult> OnGetAsync(int id) // Dica: mudei para int para evitar conversões repetidas
         {
+            if (_usuario.Id != id.ToString())
+            {
+                return RedirectToPage("/Index");
+            }
+
             Usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Id == id);
 
             if (Usuario == null)

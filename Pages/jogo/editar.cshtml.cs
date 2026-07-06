@@ -85,10 +85,11 @@ namespace MeuProjeto.Pages.jogo
                            "wwwroot",
                            "uploads");
 
-            if (GameImg == null || GameImg.Length == 0) 
+            if (GameImg == null || GameImg.Length == 0)
             {
                 GameImgPath = Jogo.capa;
-            } else
+            }
+            else
             {
                 string ImgName = Path.GetFileName(GameImg.FileName); //Pega o nome do arquivo
                 string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
@@ -102,10 +103,11 @@ namespace MeuProjeto.Pages.jogo
                 }
             }
 
-            if (GameBanner == null || GameBanner.Length == 0) 
-            { 
+            if (GameBanner == null || GameBanner.Length == 0)
+            {
                 GameBannerPath = Jogo.banner;
-            } else
+            }
+            else
             {
                 string BannerName = Path.GetFileName(GameBanner.FileName);
                 string extensionBanner = Path.GetExtension(BannerName);
@@ -132,7 +134,8 @@ namespace MeuProjeto.Pages.jogo
                     capa = GameImgPath,
                     banner = GameBannerPath,
                     criado_em = DateTime.Today,
-                    categoriaId = GameCategory
+                    categoriaId = GameCategory,
+                    key = Jogo.key
                 };
 
                 //atualiza
@@ -142,7 +145,7 @@ namespace MeuProjeto.Pages.jogo
                 return RedirectToPage("/Index");
             }
             //senão retorna erro
-            catch (Exception ex) 
+            catch (Exception ex)
             {
 
                 ViewData["ErrorMessage"] = $"Ocorreu um erro ao atualizar o usuário: {ex}";

@@ -1,4 +1,5 @@
 using MeuProjeto.Models;
+using MeuProjeto.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -8,15 +9,16 @@ using System.Threading.Tasks;
 public class LoginModel : PageModel
 {
     private readonly LegendsStoreContext _context;
-
-    public LoginModel(LegendsStoreContext context)
+    private readonly UsuarioSessao _usuario;
+    public LoginModel(LegendsStoreContext context, UsuarioSessao usuario)
     {
         _context = context;
+        _usuario = usuario;
     }
 
     [BindProperty]
     public string LoginEmail { get; set; }
-    
+
     [BindProperty]
     public string LoginPassword { get; set; }
 
@@ -26,16 +28,28 @@ public class LoginModel : PageModel
                string.IsNullOrEmpty(LoginPassword);
     }
 
+    public IActionResult OnGet()
+    {
+        if (_usuario.Id != null)
+        {
+            return RedirectToPage("/Index");
+        }
+
+        return Page();
+    }
+
     public async Task<IActionResult> OnPostAsync()
     {
-        if (EmptyForm()) {
+        if (EmptyForm())
+        {
             ViewData["ErrorMessage"] = "Nenhum campo pode estar vazio";
             return Page();
         }
 
         var usuarioExiste = await _context.Usuarios.FirstOrDefaultAsync(u => u.email == LoginEmail);
 
-        if (usuarioExiste != null) {
+        if (usuarioExiste != null)
+        {
             bool passVerify = BCrypt.Net.BCrypt.Verify(LoginPassword, usuarioExiste.senha);
 
             if (passVerify)
@@ -51,7 +65,7 @@ public class LoginModel : PageModel
                 ViewData["ErrorMessage"] = "Email ou senha incorreto";
                 return Page();
             }
-        }        
+        }
 
         else
         {

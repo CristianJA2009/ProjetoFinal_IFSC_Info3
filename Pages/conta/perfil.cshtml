@@ -4,8 +4,14 @@
     Layout = "~/Pages/Shared/_Layout.cshtml";
     ViewData["Title"] = "Perfil";
 }
+@inject Services.UsuarioSessao Usuario;
+
 
 <main id="container">
+    @if (Usuario.Tipo == "admin")
+    {
+        <button><a asp-route-id="@Usuario.Id" asp-page="/conta/admin/admin">Painel Admin</a></button>
+    }
     <div class='divUser'>
         <div class='mainTitle altColor'>
             <h1>Meu Perfil</h1>
@@ -121,8 +127,8 @@
                                     </button>
 
                                     <dialog id="modal-@game.Id" class="meu-modal">
-                                        <div class="modal-conteudo">
-                                            <h2 class="mainTitle">@game.key</h2>
+                                        <div class="modal-conteudo" style="text-align: center">
+                                            <h2 class="mainTitle" style="text-align: center">@game.key</h2>
                                             <div class="divButtons">
                                                 <button type="button" onclick="fecharModal('modal-@game.Id')">Fechar</button>
                                             </div>

@@ -1,4 +1,5 @@
 using MeuProjeto.Models;
+using MeuProjeto.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -8,10 +9,12 @@ using System.Threading.Tasks;
 public class RegistroModel : PageModel
 {
     private readonly LegendsStoreContext _context;
+    private readonly UsuarioSessao _usuario;
 
-    public RegistroModel(LegendsStoreContext context)
+    public RegistroModel(LegendsStoreContext context, UsuarioSessao usuario)
     {
         _context = context;
+        _usuario = usuario;
     }
 
     [BindProperty]
@@ -32,6 +35,16 @@ public class RegistroModel : PageModel
                string.IsNullOrEmpty(RegisterEmail) ||
                string.IsNullOrEmpty(RegisterPassword) ||
                string.IsNullOrEmpty(RegisterVerifyPassword);
+    }
+
+    public IActionResult OnGet()
+    {
+        if (_usuario.Id != null)
+        {
+            return RedirectToPage("/Index");
+        }
+
+        return Page();
     }
 
     public async Task<IActionResult> OnPostAsync()

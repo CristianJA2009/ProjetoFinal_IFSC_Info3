@@ -1,0 +1,7 @@
+Buscas realizadas:
+- Termos: TagHelper, AnchorTagHelper, asp-route-id, @addTagHelper, HtmlTargetElement("a"), class .*TagHelper
+- Diretórios pesquisados: workspace inteiro do projeto MeuProjeto
+- Resultado: nenhuma ocorrência encontrada nos arquivos rastreados
+
+Próximo passo: abrir arquivos de configuração relevantes: Pages/_ViewImports.cshtml e Program.cs
+

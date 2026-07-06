@@ -1,0 +1,3 @@
+Abrindo e registrando conteúdo de Pages\_ViewImports.cshtml e Program.cs para análise do problema de TagHelper.
+
+Próximo: vou abrir esses arquivos.

@@ -1,10 +1,18 @@
 ﻿@model List<MeuProjeto.Models.Categoria>
+@inject Services.UsuarioSessao Usuario
 
 <select name="GameCategory" id="gameCategory" onchange="this.form.submit()">
     <option style="text-align: center;" value="" selected>Selecionar Categoria</option>
     @foreach (var category in Model)
     {
-        <option style="text-align: center;" value="@category.Id">@category.nome</option>
+        @if (Usuario.Tipo == "admin")
+        {
+            <option style="text-align: center;" value="@category.Id">@category.nome</option>
+        }
+        else
+        {
+            <option style="text-align: center;" value="@category.Id">@category.nome</option>
+        }
     }
     <option style="text-align: center;" value="">Limpar Filtro</option>
 </select>

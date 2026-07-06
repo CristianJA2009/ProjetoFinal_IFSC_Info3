@@ -4,6 +4,8 @@
     Layout = "~/Pages/Shared/_Layout.cshtml";
     ViewData["Title"] = "Registro";
 }
+@inject Services.UsuarioSessao Usuario;
+
 <body class='bodyAlt'>
     <main id="container">
         <form id='formRegister' method="post">
