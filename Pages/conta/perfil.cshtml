@@ -11,16 +11,19 @@
             <h1>Meu Perfil</h1>
         </div>
         <div class="divAccount">
-            @if (Model.Usuario.foto == null)
-            {
-                <form method="post" enctype="multipart/form-data">
-                    <label><input hidden type="file" /><img src="~/img/userImg.png" class='img2' /></label>
-                </form>
-            }
-            else
-            {
-                <img src="~/uploads/@Model.Usuario.foto" class='img2' />
-            }
+            <form method="post" enctype="multipart/form-data" asp-route-id="@Model.Usuario.Id">
+                <input hidden asp-for="UserImg" id="image" type="file" onchange="this.form.submit()" />
+                <label for="image">
+                    @if (Model.Usuario.foto == null)
+                    {
+                        <img src="~/img/userImg.png" class='img2' style="cursor: pointer" />
+                    }
+                    else
+                    {
+                        <img src="~/uploads/@Model.Usuario.foto" class='img2' style="cursor: pointer" />
+                    }
+                </label>
+            </form>
             <div class="divSide">
                 <div class="divRow">
                     <div class="divRow">
@@ -112,6 +115,19 @@
                                 <div class='profileGame'>
                                     <img src="~/uploads/@game.capa">
                                     <p>@game.nome</p>
+
+                                    <button type="button" class="modalBtn" onclick="abrirModal('modal-@game.Id')">
+                                        Resgatar Chave
+                                    </button>
+
+                                    <dialog id="modal-@game.Id" class="meu-modal">
+                                        <div class="modal-conteudo">
+                                            <h2 class="mainTitle">@game.key</h2>
+                                            <div class="divButtons">
+                                                <button type="button" onclick="fecharModal('modal-@game.Id')">Fechar</button>
+                                            </div>
+                                        </div>
+                                    </dialog>
                                 </div>
                             }
                         }
@@ -122,4 +138,21 @@
                     </div>
                 </div>
             </div>
+            <script type="text/javascript">
+                function abrirModal(idModal) {
+                    const modal = document.getElementById(idModal);
+                    if (modal) {
+                        modal.showModal();
+                    }
+                }
+
+                function fecharModal(idModal) {
+                    const modal = document.getElementById(idModal);
+                    if (modal) {
+                        modal.close();
+                    }
+                }
+            </script>
         </main>
+
+

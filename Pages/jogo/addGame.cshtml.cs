@@ -114,7 +114,8 @@ namespace MeuProjeto.Pages.jogo
                         capa = GameImgPath,
                         banner = GameBannerPath,
                         criado_em = DateTime.Today,
-                        categoriaId = GameCategory
+                        categoriaId = GameCategory,
+                        key = Guid.NewGuid().ToString()
                     };
 
                     _context.Jogos.Add(jogo);

@@ -48,11 +48,13 @@ public class IndexModel : PageModel
 
         Categorias = _context.Categorias.ToList();
         Jogos = consulta.ToList(); //recebe filtrado
-
-        int indiceAleatorio = random.Next(Jogos.Count); //recebe o primeiro jogo filtrado
-        var jogoEscolhido = Jogos[indiceAleatorio];
-        JogoEscolhido = jogoEscolhido;
-
         TemJogos = await _context.Jogos.AnyAsync();
+
+        if (TemJogos && string.IsNullOrWhiteSpace(Search))
+        {
+            int indiceAleatorio = random.Next(Jogos.Count); //recebe o primeiro jogo filtrado
+            var jogoEscolhido = Jogos[indiceAleatorio];
+            JogoEscolhido = jogoEscolhido;
+        }
     }
 }

@@ -376,27 +376,38 @@ h1 {
         flex: 1;
     }
 
+th {
+    background-color: #DEF5FB;
+    outline: 2px solid #DEF5FB;
+}
+
 .divUser table {
     background-color: #F9FDFE;
-    display: flex;
     width: 90%;
     margin: auto;
     text-align: center;
     border-radius: 5px;
 }
 
-th {
-    background-color: #DEF5FB;
-    outline: 2px solid #DEF5FB;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+th, td {
+    padding: 12px;
+    vertical-align: middle;
 }
 
-th,
-td,
-tr {
-    width: 300px;
-    padding: 7px;
+.td-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.col-produto {
+    width: 70%;
+    text-align: left; 
+}
+
+.col-valor {
+    width: 30%;
+    font-weight: bold;
 }
 
 .divUser img {
@@ -431,7 +442,7 @@ tr {
 }
 
     .divButtons button {
-        width: 35px;
+        width: 100%;
         background-color: transparent;
         border: none;
         color: white;
@@ -450,28 +461,30 @@ tr {
 }
 
 .divLibrary {
-    display: flex;
-    gap: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    gap: 50px;
 }
 
 .profileGame {
     display: flex;
     flex: 1;
     flex-direction: column;
+    border-radius: 0px;
 }
 
     .profileGame img {
         aspect-ratio: 2 / 3;
         height: 200px;
         object-fit: cover;
-        border-radius: 10px;
-        box-shadow: 0px 2px 5px gray;
+        box-shadow: 0px 2px 5px black;
+        border-radius: 0px;
     }
 
     .profileGame p {
         background-color: #F9FDFE;
-        border-bottom-left-radius: 10px;
-        border-bottom-right-radius: 10px;
+        border-radius: 0px;
     }
 
 .divGame {
@@ -683,3 +696,59 @@ tr {
         border: none;
         border-top: 1px solid #444;
     }
+
+.meu-modal {
+    border: none;
+    border-radius: 10px;
+    padding: 0;
+    width: 90%;
+    background-color: #F9FDFE;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+    /* Força a centralização perfeita na tela */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+
+.modal-conteudo {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.meu-modal::backdrop {
+    background-color: rgba(8, 37, 26, 0.7);
+    backdrop-filter: blur(3px);
+}
+
+.meu-modal[open] {
+    animation: aparecer 0.1s ease normal;
+}
+
+@keyframes aparecer {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.modalBtn {
+    width: fit-content;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    color: #0b3324;
+    font-weight: 500;
+}

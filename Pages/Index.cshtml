@@ -10,30 +10,46 @@
 @inject Services.UsuarioSessao Usuario
 
     
-@if (Usuario.Tipo == "admin")
+@if (Usuario.Tipo == "admin" && ViewData["Search"] == null)
 {
     <a asp-page="/jogo/addGame">Adicionar Jogos</a>
     <a asp-page="/jogo/addCategoria">Adicionar Categorias</a>
 }
 
+<br>
+
+@if (TempData["AlertMessage"] != null)
+{
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function () {
+            alert('@TempData["AlertMessage"]');
+        });
+    </script>
+}
+
 <main id="container">
-    <h1 style="text-align: left;">Destaques e Promoções</h1>
-    <section id="highlightArea">
-        <div id="caroussel">
-            <div id="carousselImg">
-                <img src="~/uploads/@Model.JogoEscolhido.capa">
-            </div>
-            <div id=carousselInfo>
-                <div id="carousselName">
-                    <h2>@Model.JogoEscolhido.nome</h2>
+    @if (Model.TemJogos && string.IsNullOrWhiteSpace(ViewData["Search"]?.ToString()) && Model.GameCategory == null)
+    {
+        <h1 style="text-align: left;">Destaques e Promoções</h1>
+        <section id="highlightArea">
+            <div id="caroussel">
+                <div id="carousselImg">
+                    <img src="~/uploads/@Model.JogoEscolhido.capa">
                 </div>
-                <div id="carousselPrice">
-                    <h2>@Model.JogoEscolhido.valor</h2>
-                    <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id">Ver Detalhes</a></h2>
+                <div id=carousselInfo>
+                    <div id="carousselName">
+                        <h2>@Model.JogoEscolhido.nome</h2>
+                    </div>
+                    <div id="carousselPrice">
+                        <h2>@Model.JogoEscolhido.valor</h2>
+                        <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id">Ver Detalhes</a></h2>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    }
+
+    
 
     <h1>Catálogo</h1>
     <section id="catalogArea">

@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace MeuProjeto.Migrations
 {
     /// <inheritdoc />
-    public partial class InitalCreate : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Categorias", 
+                name: "Categorias",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -54,6 +54,7 @@ namespace MeuProjeto.Migrations
                     valor = table.Column<float>(type: "real", nullable: false),
                     capa = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     banner = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    key = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     criado_em = table.Column<DateTime>(type: "datetime2", nullable: false),
                     categoriaId = table.Column<int>(type: "int", nullable: false)
                 },
@@ -64,25 +65,6 @@ namespace MeuProjeto.Migrations
                         name: "FK_Jogos_Categorias_categoriaId",
                         column: x => x.categoriaId,
                         principalTable: "Categorias",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Carrinhos",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    UsuarioId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Carrinhos", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Carrinhos_Usuarios_UsuarioId",
-                        column: x => x.UsuarioId,
-                        principalTable: "Usuarios",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -102,6 +84,32 @@ namespace MeuProjeto.Migrations
                     table.PrimaryKey("PK_Compras", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Compras_Usuarios_UsuarioId",
+                        column: x => x.UsuarioId,
+                        principalTable: "Usuarios",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Carrinhos",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    UsuarioId = table.Column<int>(type: "int", nullable: false),
+                    JogoId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Carrinhos", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Carrinhos_Jogos_JogoId",
+                        column: x => x.JogoId,
+                        principalTable: "Jogos",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Carrinhos_Usuarios_UsuarioId",
                         column: x => x.UsuarioId,
                         principalTable: "Usuarios",
                         principalColumn: "Id",
@@ -152,54 +160,6 @@ namespace MeuProjeto.Migrations
                         name: "FK_UsuarioJogos_Usuarios_usuarioId",
                         column: x => x.usuarioId,
                         principalTable: "Usuarios",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "CarrinhoJogo",
-                columns: table => new
-                {
-                    CarrinhosId = table.Column<int>(type: "int", nullable: false),
-                    JogosId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_CarrinhoJogo", x => new { x.CarrinhosId, x.JogosId });
-                    table.ForeignKey(
-                        name: "FK_CarrinhoJogo_Carrinhos_CarrinhosId",
-                        column: x => x.CarrinhosId,
-                        principalTable: "Carrinhos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_CarrinhoJogo_Jogos_JogosId",
-                        column: x => x.JogosId,
-                        principalTable: "Jogos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "CarrinhoJogos",
-                columns: table => new
-                {
-                    carrinhoId = table.Column<int>(type: "int", nullable: false),
-                    jogoId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_CarrinhoJogos", x => new { x.carrinhoId, x.jogoId });
-                    table.ForeignKey(
-                        name: "FK_CarrinhoJogos_Carrinhos_carrinhoId",
-                        column: x => x.carrinhoId,
-                        principalTable: "Carrinhos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_CarrinhoJogos_Jogos_jogoId",
-                        column: x => x.jogoId,
-                        principalTable: "Jogos",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -274,20 +234,14 @@ namespace MeuProjeto.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_CarrinhoJogo_JogosId",
-                table: "CarrinhoJogo",
-                column: "JogosId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_CarrinhoJogos_jogoId",
-                table: "CarrinhoJogos",
-                column: "jogoId");
+                name: "IX_Carrinhos_JogoId",
+                table: "Carrinhos",
+                column: "JogoId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Carrinhos_UsuarioId",
                 table: "Carrinhos",
-                column: "UsuarioId",
-                unique: true);
+                column: "UsuarioId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_CompraJogo_JogosId",
@@ -330,10 +284,7 @@ namespace MeuProjeto.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "CarrinhoJogo");
-
-            migrationBuilder.DropTable(
-                name: "CarrinhoJogos");
+                name: "Carrinhos");
 
             migrationBuilder.DropTable(
                 name: "CompraJogo");
@@ -349,9 +300,6 @@ namespace MeuProjeto.Migrations
 
             migrationBuilder.DropTable(
                 name: "UsuarioJogos");
-
-            migrationBuilder.DropTable(
-                name: "Carrinhos");
 
             migrationBuilder.DropTable(
                 name: "Compras");

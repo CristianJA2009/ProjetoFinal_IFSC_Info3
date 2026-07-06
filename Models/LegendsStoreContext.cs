@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using System.Reflection.Metadata;
 
 namespace MeuProjeto.Models
 {
@@ -33,20 +34,17 @@ namespace MeuProjeto.Models
                 .WithMany(j => j.CompraJogos)
                 .HasForeignKey(cj => cj.jogoId);
 
-            modelBuilder.Entity<CarrinhoJogo>()
-                .HasKey(cj => new { cj.carrinhoId, cj.jogoId });
+            modelBuilder.Entity<Jogo>()
+                .HasMany(e => e.Carrinhos)
+                .WithOne(e => e.Jogo)
+                .HasForeignKey(e => e.JogoId)
+                .IsRequired();
 
-            modelBuilder.Entity<CarrinhoJogo>()
-                .HasOne(cj => cj.Carrinho)
-                .WithMany(c => c.CarrinhoJogos)
-                .HasForeignKey(cj => cj.carrinhoId);
-
-            modelBuilder.Entity<CarrinhoJogo>()
-                .HasOne(cj => cj.Jogo)
-                .WithMany(j => j.CarrinhoJogos)
-                .HasForeignKey(cj => cj.jogoId);
-
-
+            modelBuilder.Entity<Usuario>()
+                .HasMany(e => e.Carrinhos)
+                .WithOne(e => e.Usuario)
+                .HasForeignKey(e => e.UsuarioId)
+                .IsRequired();
         }
 
         public DbSet<Usuario> Usuarios { get; set; }
@@ -56,7 +54,6 @@ namespace MeuProjeto.Models
         public DbSet<CompraJogo> CompraJogos { get; set; }
         public DbSet<Compra> Compras { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
-        public DbSet<CarrinhoJogo> CarrinhoJogos { get; set; }
         public DbSet<Carrinho> Carrinhos { get; set; }
 
         public LegendsStoreContext(DbContextOptions options) : base(options)

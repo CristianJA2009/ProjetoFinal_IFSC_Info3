@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MeuProjeto.Migrations
 {
     [DbContext(typeof(LegendsStoreContext))]
-    [Migration("20260703201117_InitalCreate")]
-    partial class InitalCreate
+    [Migration("20260706060335_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,21 +24,6 @@ namespace MeuProjeto.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("CarrinhoJogo", b =>
-                {
-                    b.Property<int>("CarrinhosId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("JogosId")
-                        .HasColumnType("int");
-
-                    b.HasKey("CarrinhosId", "JogosId");
-
-                    b.HasIndex("JogosId");
-
-                    b.ToTable("CarrinhoJogo");
-                });
 
             modelBuilder.Entity("CompraJogo", b =>
                 {
@@ -78,30 +63,19 @@ namespace MeuProjeto.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("JogoId")
+                        .HasColumnType("int");
+
                     b.Property<int>("UsuarioId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UsuarioId")
-                        .IsUnique();
+                    b.HasIndex("JogoId");
+
+                    b.HasIndex("UsuarioId");
 
                     b.ToTable("Carrinhos");
-                });
-
-            modelBuilder.Entity("MeuProjeto.Models.CarrinhoJogo", b =>
-                {
-                    b.Property<int>("carrinhoId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("jogoId")
-                        .HasColumnType("int");
-
-                    b.HasKey("carrinhoId", "jogoId");
-
-                    b.HasIndex("jogoId");
-
-                    b.ToTable("CarrinhoJogos");
                 });
 
             modelBuilder.Entity("MeuProjeto.Models.Categoria", b =>
@@ -183,6 +157,10 @@ namespace MeuProjeto.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("descricao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("key")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -279,21 +257,6 @@ namespace MeuProjeto.Migrations
                     b.ToTable("UsuarioJogos");
                 });
 
-            modelBuilder.Entity("CarrinhoJogo", b =>
-                {
-                    b.HasOne("MeuProjeto.Models.Carrinho", null)
-                        .WithMany()
-                        .HasForeignKey("CarrinhosId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("MeuProjeto.Models.Jogo", null)
-                        .WithMany()
-                        .HasForeignKey("JogosId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("CompraJogo", b =>
                 {
                     b.HasOne("MeuProjeto.Models.Compra", null)
@@ -326,32 +289,21 @@ namespace MeuProjeto.Migrations
 
             modelBuilder.Entity("MeuProjeto.Models.Carrinho", b =>
                 {
-                    b.HasOne("MeuProjeto.Models.Usuario", "Usuario")
-                        .WithOne("Carrinho")
-                        .HasForeignKey("MeuProjeto.Models.Carrinho", "UsuarioId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Usuario");
-                });
-
-            modelBuilder.Entity("MeuProjeto.Models.CarrinhoJogo", b =>
-                {
-                    b.HasOne("MeuProjeto.Models.Carrinho", "Carrinho")
-                        .WithMany("CarrinhoJogos")
-                        .HasForeignKey("carrinhoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("MeuProjeto.Models.Jogo", "Jogo")
-                        .WithMany("CarrinhoJogos")
-                        .HasForeignKey("jogoId")
+                        .WithMany("Carrinhos")
+                        .HasForeignKey("JogoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Carrinho");
+                    b.HasOne("MeuProjeto.Models.Usuario", "Usuario")
+                        .WithMany("Carrinhos")
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Jogo");
+
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("MeuProjeto.Models.Compra", b =>
@@ -425,11 +377,6 @@ namespace MeuProjeto.Migrations
                     b.Navigation("Usuario");
                 });
 
-            modelBuilder.Entity("MeuProjeto.Models.Carrinho", b =>
-                {
-                    b.Navigation("CarrinhoJogos");
-                });
-
             modelBuilder.Entity("MeuProjeto.Models.Categoria", b =>
                 {
                     b.Navigation("Jogos");
@@ -445,7 +392,7 @@ namespace MeuProjeto.Migrations
 
             modelBuilder.Entity("MeuProjeto.Models.Jogo", b =>
                 {
-                    b.Navigation("CarrinhoJogos");
+                    b.Navigation("Carrinhos");
 
                     b.Navigation("CompraJogos");
 
@@ -454,8 +401,7 @@ namespace MeuProjeto.Migrations
 
             modelBuilder.Entity("MeuProjeto.Models.Usuario", b =>
                 {
-                    b.Navigation("Carrinho")
-                        .IsRequired();
+                    b.Navigation("Carrinhos");
 
                     b.Navigation("Compras");
 

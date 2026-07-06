@@ -12,10 +12,9 @@ namespace MeuProjeto.Models
         public int pontos { get; set; }
         public DateTime criado_em { get; set; }
         public string tipo { get; set; }
-
-        public Carrinho Carrinho { get; set; }
         public List<UsuarioJogo> UsuarioJogos { get; set; } = [];
         public List<Jogo> Jogos { get; set; } = [];
         public ICollection<Compra> Compras { get; } = new List<Compra>();
+        public ICollection<Carrinho> Carrinhos { get; } = new List<Carrinho>();
     }
 }  
