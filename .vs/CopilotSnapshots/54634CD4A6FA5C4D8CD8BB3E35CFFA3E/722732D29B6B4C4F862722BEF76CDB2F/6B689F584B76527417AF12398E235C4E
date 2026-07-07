@@ -1,4 +1,4 @@
-using MeuProjeto.Models;
+﻿using MeuProjeto.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -75,14 +75,6 @@ namespace MeuProjeto.Pages.jogo
             }
 
             ViewData["ErrorMessage"] = null;
-
-            // 3. Validação de tamanho de texto (prevenir uploads desnecessários)
-            if ((GameDescription != null && GameDescription.Length > 350) ||
-                (GameName != null && GameName.Length > 50))
-            {
-                ViewData["ErrorMessage"] = "Limite de texto atingido!";
-                return Page();
-            }
 
             //uploads de imagens
             string GameImgPath;

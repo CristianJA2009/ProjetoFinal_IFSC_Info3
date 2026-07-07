@@ -1,4 +1,4 @@
-using MeuProjeto.Models;
+﻿using MeuProjeto.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -56,14 +56,6 @@ namespace MeuProjeto.Pages.jogo
         public async Task<IActionResult> OnPostAsync()
         {
             Categorias = _context.Categorias.ToList();
-
-            // 0. Validação de tamanho dos textos
-            if ((GameDescription != null && GameDescription.Length > 350) ||
-                (GameName != null && GameName.Length > 50))
-            {
-                ViewData["ErrorMessage"] = "Limite de texto atingido!";
-                return Page();
-            }
 
             // 1. Validação de campos vazios
             if (EmptyForm())

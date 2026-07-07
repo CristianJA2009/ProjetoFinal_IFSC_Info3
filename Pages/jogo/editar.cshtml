@@ -7,8 +7,8 @@
 
 <main id="container">
     <form id="gameForm" class='flex column' method="post" enctype="multipart/form-data">
-        <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" value="@Model.Jogo.nome" />
-        <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" value="@Model.Jogo.descricao" />
+        <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" value="@Model.Jogo.nome" maxlength="50"/>
+        <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" value="@Model.Jogo.descricao" maxlength="350"/>
         <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01" value="@Model.Jogo.valor" />
         <label for="gameImg">Capa (deixe em branco para manter a atual)</label>
         <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg"/>

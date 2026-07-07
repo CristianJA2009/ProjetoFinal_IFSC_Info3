@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\criar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\criar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\perfil.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\perfil.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,68 +83,20 @@
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\perfil.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\perfil.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editaruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editaruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletaruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletaruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletarcat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletarcat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletarcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletarcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\deletarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\deletarjogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\editarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\admin\\editarjogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\admin\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\conta\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,14 +119,6 @@
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\carrinho\\carrinho.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\carrinho\\carrinho.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -127,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\carrinho\\pagamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\viewcomponents\\menucategoriasviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\carrinho\\pagamento.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\carrinho\\pagamento.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\jogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -199,20 +191,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260706031514_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addcategoria.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addcategoria.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\addcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\addcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|solutionrelative:pages\\jogo\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ECF586-D0EE-E69C-F0B0-13D112AA463E}|MeuProjeto.csproj|c:\\users\\usuario\\documents\\codigos\\projetofinal_ifsc_info3\\projetofinal_ifsc_info3\\pages\\jogo\\jogo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -261,47 +245,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAPUCAAAAAAAAAAAAANECAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAUwBkCAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-07-02T07:34:10.215Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-02T05:05:39.583Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA7wCIAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwCIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T17:00:16.973Z",
               "IsPinned": true,
@@ -309,164 +291,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "admin.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\admin.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\admin\\admin.cshtml",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\admin.cshtml",
               "RelativeToolTip": "Pages\\conta\\admin\\admin.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T17:48:09.458Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "perfil.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\perfil.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\perfil.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\jogo\\editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml.cs",
+              "RelativeToolTip": "Pages\\jogo\\editar.cshtml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAhwIMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T19:11:42.091Z",
+              "WhenOpened": "2026-07-02T22:23:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\editar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\editar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T22:23:20.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
-              "RelativeToolTip": "Pages\\conta\\login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T19:56:34.496Z",
+              "Title": "addGame.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
+              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwH0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:39:09.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\login.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T19:57:48.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "registro.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\registro.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T20:04:00.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "perfil.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\perfil.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
-              "RelativeToolTip": "Pages\\conta\\perfil.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T19:34:05.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:05:23.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
-              "RelativeToolTip": "Pages\\conta\\registro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T05:45:08.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "editarUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarUser.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml",
-              "RelativeToolTip": "Pages\\conta\\admin\\editarUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T19:22:20.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "editarJogo.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarJogo.cshtml",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml",
               "RelativeToolTip": "Pages\\conta\\admin\\editarJogo.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T19:02:59.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "deletarUser.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarUser.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarUser.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarUser.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\admin\\deletarUser.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "editarJogo.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarJogo.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\admin\\editarJogo.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwJkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T19:21:11.35Z",
+              "WhenOpened": "2026-07-06T19:03:17.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "editarUser.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarUser.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\admin\\editarUser.cshtml.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAHUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T19:22:38.967Z",
+              "DocumentIndex": 1,
+              "Title": "addGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T08:10:56.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "jogo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
+              "RelativeDocumentMoniker": "Pages\\jogo\\jogo.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
+              "RelativeToolTip": "Pages\\jogo\\jogo.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T20:13:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\editar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\editar.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\editar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:20:03.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\perfil.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml",
+              "RelativeToolTip": "Pages\\conta\\perfil.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAD8AAACDAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T19:34:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\login.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T19:57:48.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -479,7 +452,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
+              "Title": "criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\criar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\admin\\criar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\criar.cshtml",
+              "RelativeToolTip": "Pages\\conta\\admin\\criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T04:05:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "criar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\criar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\admin\\criar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\criar.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\admin\\criar.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T04:07:53.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\editar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\editar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\editar.cshtml",
+              "RelativeToolTip": "Pages\\conta\\editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T03:19:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "perfil.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\perfil.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\perfil.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\perfil.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T19:11:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "registro.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\registro.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T20:04:00.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "deletarUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarUser.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarUser.cshtml",
@@ -492,59 +530,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "editar.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\jogo\\editar.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml.cs",
-              "RelativeToolTip": "Pages\\jogo\\editar.cshtml.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T22:23:26.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "deletarCat.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarCat.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarCat.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarCat.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\admin\\deletarCat.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T19:18:16.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "deletarCat.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarCat.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarCat.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarCat.cshtml",
-              "RelativeToolTip": "Pages\\conta\\admin\\deletarCat.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\login.cshtml",
+              "RelativeToolTip": "Pages\\conta\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T19:18:09.256Z",
+              "WhenOpened": "2026-07-01T19:56:34.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "deletarJogo.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarJogo.cshtml",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarJogo.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarJogo.cshtml",
-              "RelativeToolTip": "Pages\\conta\\admin\\deletarJogo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "editarUser.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarUser.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarUser.cshtml.cs",
+              "RelativeToolTip": "Pages\\conta\\admin\\editarUser.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T19:22:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
+              "RelativeDocumentMoniker": "Pages\\conta\\registro.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\registro.cshtml",
+              "RelativeToolTip": "Pages\\conta\\registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T19:11:06.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T05:45:08.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "admin.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\admin.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\conta\\admin\\admin.cshtml.cs",
@@ -552,38 +576,11 @@
               "RelativeToolTip": "Pages\\conta\\admin\\admin.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T17:58:48.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T17:58:48.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "deletarJogo.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarJogo.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\deletarJogo.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\deletarJogo.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\admin\\deletarJogo.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T19:11:28.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "editarJogo.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\conta\\admin\\editarJogo.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\admin\\editarJogo.cshtml.cs",
-              "RelativeToolTip": "Pages\\conta\\admin\\editarJogo.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T19:03:17.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml",
@@ -591,12 +588,11 @@
               "RelativeToolTip": "Pages\\conta\\logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T07:45:55.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T07:45:55.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 57,
               "Title": "debug_search_log.txt",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\debug_search_log.txt",
               "RelativeDocumentMoniker": "debug_search_log.txt",
@@ -608,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "_Layout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.cs",
@@ -620,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -632,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -644,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 58,
               "Title": "temp_open_ViewImports_and_Program_log.txt",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\temp_open_ViewImports_and_Program_log.txt",
               "RelativeDocumentMoniker": "temp_open_ViewImports_and_Program_log.txt",
@@ -656,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "carrinho.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\carrinho.cshtml",
               "RelativeDocumentMoniker": "Pages\\carrinho\\carrinho.cshtml",
@@ -668,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "carrinho.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\carrinho.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\carrinho\\carrinho.cshtml.cs",
@@ -680,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "pagamento.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\pagamento.cshtml",
               "RelativeDocumentMoniker": "Pages\\carrinho\\pagamento.cshtml",
@@ -692,31 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml",
-              "RelativeDocumentMoniker": "Pages\\jogo\\editar.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\editar.cshtml",
-              "RelativeToolTip": "Pages\\jogo\\editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T22:23:20.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "addGame.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml.cs",
-              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAADwv3UAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:39:09.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "MenuCategoriasViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\ViewComponents\\MenuCategoriasViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\MenuCategoriasViewComponent.cs",
@@ -740,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 56,
               "Title": "20260706060335_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706060335_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706060335_InitialCreate.cs",
@@ -752,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "addCarrinho.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\addCarrinho.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\carrinho\\addCarrinho.cshtml.cs",
@@ -764,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "pagamento.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\pagamento.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\carrinho\\pagamento.cshtml.cs",
@@ -777,18 +749,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "jogo.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
-              "RelativeDocumentMoniker": "Pages\\jogo\\jogo.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml",
-              "RelativeToolTip": "Pages\\jogo\\jogo.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T20:13:06.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
               "Title": "deletar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\jogo\\deletar.cshtml.cs",
@@ -800,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "Compra.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Compra.cs",
               "RelativeDocumentMoniker": "Models\\Compra.cs",
@@ -812,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "remover.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\remover.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\carrinho\\remover.cshtml.cs",
@@ -824,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "remover.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\carrinho\\remover.cshtml",
               "RelativeDocumentMoniker": "Pages\\carrinho\\remover.cshtml",
@@ -836,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "20260706040940_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706040940_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706040940_InitialCreate.cs",
@@ -848,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Models\\Categoria.cs",
@@ -860,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "20260706040141_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706040141_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706040141_InitialCreate.cs",
@@ -872,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "20260706040321_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706040321_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706040321_InitialCreate.cs",
@@ -884,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "20260706031514_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706031514_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706031514_InitialCreate.cs",
@@ -896,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "20260706031713_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706031713_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706031713_InitialCreate.cs",
@@ -908,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "20260706032352_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260706032352_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260706032352_InitialCreate.cs",
@@ -920,19 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "addGame.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
-              "RelativeDocumentMoniker": "Pages\\jogo\\addGame.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addGame.cshtml",
-              "RelativeToolTip": "Pages\\jogo\\addGame.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T08:10:56.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 47,
               "Title": "addCategoria.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addCategoria.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\jogo\\addCategoria.cshtml.cs",
@@ -944,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 48,
               "Title": "addCategoria.cshtml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\addCategoria.cshtml",
               "RelativeDocumentMoniker": "Pages\\jogo\\addCategoria.cshtml",
@@ -956,19 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "deletar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml",
-              "RelativeDocumentMoniker": "Pages\\jogo\\deletar.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\deletar.cshtml",
-              "RelativeToolTip": "Pages\\jogo\\deletar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T19:27:00.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 49,
               "Title": "jogo.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\jogo\\jogo.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\jogo\\jogo.cshtml.cs",
@@ -980,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 50,
               "Title": "logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Pages\\conta\\logout.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\conta\\logout.cshtml.cs",
@@ -992,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 55,
               "Title": "20260630052053_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052053_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260630052053_InitialCreate.cs",
@@ -1004,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 53,
               "Title": "20260630052451_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052451_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260630052451_InitialCreate.cs",
@@ -1016,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 51,
               "Title": "20260630051831_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630051831_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260630051831_InitialCreate.cs",
@@ -1027,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 52,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -1039,7 +975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 54,
               "Title": "20260630052232_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\codigos\\ProjetoFinal_IFSC_Info3\\ProjetoFinal_IFSC_Info3\\Migrations\\20260630052232_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260630052232_InitialCreate.cs",

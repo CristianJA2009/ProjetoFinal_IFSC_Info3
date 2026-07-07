@@ -31,7 +31,7 @@ namespace MeuProjeto.Pages.conta.admin
             _context.Jogos.Remove(jogo);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("/conta/admin");
+            return RedirectToPage("/conta/admin/admin");
         }
     }
 }

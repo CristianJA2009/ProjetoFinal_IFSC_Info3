@@ -1,18 +1,18 @@
-using MeuProjeto.Models;
+﻿using MeuProjeto.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
-namespace MeuProjeto.Pages.jogo
+namespace MeuProjeto.Pages.conta.admin
 
 {
-    public class editarModel : PageModel
+    public class editarJogoModel : PageModel
     {
         //construtor do context
         private readonly LegendsStoreContext _context;
 
-        public editarModel(LegendsStoreContext context)
+        public editarJogoModel(LegendsStoreContext context)
         {
             _context = context;
         }
@@ -76,14 +76,6 @@ namespace MeuProjeto.Pages.jogo
 
             ViewData["ErrorMessage"] = null;
 
-            // 3. Validação de tamanho de texto (prevenir uploads desnecessários)
-            if ((GameDescription != null && GameDescription.Length > 350) ||
-                (GameName != null && GameName.Length > 50))
-            {
-                ViewData["ErrorMessage"] = "Limite de texto atingido!";
-                return Page();
-            }
-
             //uploads de imagens
             string GameImgPath;
             string GameBannerPath;
@@ -129,12 +121,6 @@ namespace MeuProjeto.Pages.jogo
                 }
             }
 
-            if (GameDescription.Length > 350 || GameName.Length > 50)
-            {
-                ViewData["ErrorMessage"] = "Limite de texto atingido!";
-                return Page();
-            }
-
             //tenta atualizar o objeto de jogo
             try
             {
@@ -156,7 +142,7 @@ namespace MeuProjeto.Pages.jogo
                 _context.Jogos.Update(Jogo);
                 await _context.SaveChangesAsync();
 
-                return RedirectToPage("/Index");
+                return RedirectToPage("/conta/admin/admin");
             }
             //senão retorna erro
             catch (Exception ex)

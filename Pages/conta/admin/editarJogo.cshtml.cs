@@ -67,6 +67,15 @@ namespace MeuProjeto.Pages.conta.admin
                 return Page();
             }
 
+            // 1.5 Validação de tamanho de texto (backend)
+            // Limita descrição a 350 caracteres e nome a 50 caracteres
+            if ((GameDescription != null && GameDescription.Length > 350) ||
+                (GameName != null && GameName.Length > 50))
+            {
+                ViewData["ErrorMessage"] = "Limite de texto atingido!";
+                return Page();
+            }
+
             // 2. Validação de float
             if (float.IsNaN(GameValue))
             {
@@ -142,7 +151,7 @@ namespace MeuProjeto.Pages.conta.admin
                 _context.Jogos.Update(Jogo);
                 await _context.SaveChangesAsync();
 
-                return RedirectToPage("/conta/admin");
+                return RedirectToPage("/conta/admin/admin");
             }
             //senão retorna erro
             catch (Exception ex)

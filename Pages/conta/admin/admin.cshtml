@@ -43,7 +43,7 @@
                             <a asp-page="/conta/admin/editarUser" asp-route-id="@user.Id"><button>Editar</button></a>
                             @if (user.Id.ToString() != Usuario.Id)
                             {
-                                <a asp-page="/conta/admin" asp-route-id="@user.Id"><button>Deletar</button></a>
+                                <a asp-page="/conta/admin/deletarUser" asp-route-id="@user.Id"><button>Deletar</button></a>
                             } else
                             {
                                 <p>(Você)</p>
@@ -59,7 +59,7 @@
                 </tr>
             }
             <tr>
-                <td colspan="7"><a><button>Criar usuario</button></a></td>
+                <td colspan="7"><a asp-page="criar"><button>Criar usuario</button></a></td>
             </tr>
         </table>
     </div>
@@ -85,7 +85,7 @@
                     <tr>
                         <td>@game.Id</td>
                         <td>@game.nome</td>
-                        <td>@game.descricao</td>
+                        <td>@(game.descricao.Length > 20 ? game.descricao.Substring(0, 20) + "..." : game.descricao)</td>
                         <td>@game.valor.ToString("C")</td>
                         <td>@game.criado_em</td>
                         <td>

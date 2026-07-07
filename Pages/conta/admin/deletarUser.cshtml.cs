@@ -12,7 +12,7 @@ namespace MeuProjeto.Pages.conta.admin
         {
             _context = context;
         }
-        public async Task OnGetAsync(int id)
+        public async Task<IActionResult> OnGetAsync(int id)
         {
             //objeto que recebe o jogo
             var usuario = await _context.Usuarios.FirstOrDefaultAsync(c => c.Id == id);
@@ -21,7 +21,7 @@ namespace MeuProjeto.Pages.conta.admin
             _context.Usuarios.Remove(usuario);
             await _context.SaveChangesAsync();
 
-            RedirectToPage("/conta/admin");
+            return RedirectToPage("/conta/admin/admin");
         }
     }
 }
