@@ -1,0 +1,36 @@
+﻿@page
+@model MeuProjeto.Pages.conta.admin.editarJogoModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Editar Jogo";
+}
+
+<main id="container">
+    <form id="gameForm" class='flex column' method="post" enctype="multipart/form-data">
+        <input type="text" asp-for="GameName" placeholder="Nome" id="gameName" value="@Model.Jogo.nome" />
+        <input type="text" asp-for="GameDescription" placeholder="Descrição" id="gameDescription" value="@Model.Jogo.descricao" />
+        <input type="number" asp-for="GameValue" placeholder="Valor" id="gameValue" step="0.01" value="@Model.Jogo.valor" />
+        <label for="gameImg">Capa (deixe em branco para manter a atual)</label>
+        <input type="file" asp-for="GameImg" placeholder="Banner" id="gameImg"/>
+        <label for="gameBanner">Banner (deixe em branco para manter a atual)</label>
+        <input type="file" asp-for="GameBanner" placeholder="Capa" id="gameBanner" />
+        <label for="gameCategory">Categoria</label>
+        <select asp-for="GameCategory" id="gameCategory">
+            @foreach (var category in Model.Categorias)
+            {
+                @if (category.Id == Model.Jogo.categoriaId)
+                {
+                    <option style="text-align: center;" value="@category.Id" selected>@category.nome</option>
+                }
+                else
+                {
+                    <option style="text-align: center;" value="@category.Id">@category.nome</option>
+                }
+
+            }
+        </select>
+        <button type="submit" id="gameButton">Enviar</button>
+    </form>
+
+    <span>@ViewData["ErrorMessage"]</span>
+</main>

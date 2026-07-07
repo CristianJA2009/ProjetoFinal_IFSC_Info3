@@ -1,0 +1,115 @@
+@page
+@model MeuProjeto.Pages.conta.PerfilModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Perfil";
+}
+@inject Services.UsuarioSessao Usuario;
+
+
+<main id="container">
+    @if (Usuario.Tipo == "admin")
+    {
+        <button class="adminBtn" style="color: white;"><a asp-route-id="@Usuario.Id" style="color: white;" asp-page="/conta/admin/admin">Painel Admin</a></button>
+    }
+    
+    <br>
+
+    <button class="adminBtn" style="color: white;"><a asp-route-id="@Usuario.Id" style="color: white;" asp-page="/conta/editar">Editar Usuário</a></button>
+
+    <div class='divUser'>
+        <div class='mainTitle altColor'>
+            <h1>Meu Perfil</h1>
+        </div>
+        <div class="divAccount">
+            <form method="post" enctype="multipart/form-data" asp-route-id="@Model.Usuario.Id">
+                <input hidden asp-for="UserImg" id="image" type="file" onchange="this.form.submit()" />
+                <label for="image">
+                    @if (Model.Usuario.foto == null)
+                    {
+                        <img src="~/img/userImg.png" class='img2' style="cursor: pointer" />
+                    }
+                    else
+                    {
+                        <img src="~/uploads/@Model.Usuario.foto" class='img2' style="cursor: pointer" />
+                    }
+                </label>
+            </form>
+            <div class="divSide">
+                <div class="divRow">
+                    <div class="divRow">
+                        <div class='altTitle'>
+                            <div class='divIco2'>
+                                <p>@Model.Usuario.nome</p>
+                            </div>
+                        </div>
+                        <div class='altTitle'>
+                            <div class='divIco2'>
+                                <p>@Model.Usuario.pontos Pontos</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divRow">
+                    <div class="divRow">
+                        <div class='altTitle'>
+                            <div class='divIco2'>
+                                <p>@Model.Usuario.email</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <main id="container" class="spaceAlt">
+                <div class="mainTitle"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-gamepad2-icon lucide-gamepad-2"><line x1="6" x2="10" y1="11" y2="11" /><line x1="8" x2="8" y1="9" y2="13" /><line x1="15" x2="15.01" y1="12" y2="12" /><line x1="18" x2="18.01" y1="10" y2="10" /><path d="M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z" /></svg><h1>Minha Biblioteca</h1><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-gamepad2-icon lucide-gamepad-2"><line x1="6" x2="10" y1="11" y2="11" /><line x1="8" x2="8" y1="9" y2="13" /><line x1="15" x2="15.01" y1="12" y2="12" /><line x1="18" x2="18.01" y1="10" y2="10" /><path d="M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z" /></svg></div>
+                <div class="divUser spaceAlt">
+                    <div class='divLibrary'>
+
+                        @if (Model.Jogos.Count > 0)
+                        {
+                            @foreach (var game in Model.Jogos)
+                            {
+                                <div class='profileGame'>
+                                    <img src="~/uploads/@game.capa">
+                                    <p>@game.nome</p>
+
+                                    <button type="button" class="modalBtn" onclick="abrirModal('modal-@game.Id')">
+                                        Resgatar Chave
+                                    </button>
+
+                                    <dialog id="modal-@game.Id" class="meu-modal">
+                                        <div class="modal-conteudo" style="text-align: center">
+                                            <h2 class="mainTitle" style="text-align: center">@game.key</h2>
+                                            <div class="divButtons">
+                                                <button type="button" onclick="fecharModal('modal-@game.Id')">Fechar</button>
+                                            </div>
+                                        </div>
+                                    </dialog>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <h3 style="color: white">Não há jogos cadastrados!</h3>
+                        }
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                function abrirModal(idModal) {
+                    const modal = document.getElementById(idModal);
+                    if (modal) {
+                        modal.showModal();
+                    }
+                }
+
+                function fecharModal(idModal) {
+                    const modal = document.getElementById(idModal);
+                    if (modal) {
+                        modal.close();
+                    }
+                }
+            </script>
+        </main>
+
+

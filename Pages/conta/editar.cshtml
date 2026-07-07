@@ -1,0 +1,21 @@
+﻿@page
+@model MeuProjeto.Pages.conta.editarModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Editar Usuario";
+}
+@inject Services.UsuarioSessao user
+
+<body class='bodyAlt'>
+    <main id="container">
+        <form id="gameForm" class='flex column' method="post" enctype="multipart/form-data">
+            <input type="text" asp-for="RegisterName" placeholder="Nome" id="gameName" value="@Model.Usuario.nome" />
+            <input type="text" asp-for="RegisterEmail" placeholder="Email" id="gameDescription" value="@Model.Usuario.email" />
+            <input type="password" asp-for="Senha" placeholder="Senha"/>
+            <button type="submit" id="gameButton">Enviar</button>
+        </form>
+
+        <span style="color: white;">@ViewData["ErrorMessage"]</span>
+    </div>
+</main>
+</body>

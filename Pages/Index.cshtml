@@ -1,0 +1,91 @@
+﻿@page
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Home Page";
+}
+
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Services.UsuarioSessao Usuario
+
+    
+@if (Usuario.Tipo == "admin" && ViewData["Search"] == null)
+{
+    <div class="adminGameButtons flex row">
+        <a asp-page="/jogo/addGame"><button>Adicionar Jogos</button></a>
+        <a asp-page="/jogo/addCategoria"><button>Adicionar Categorias</button></a>
+    </div>
+}
+
+<br>
+
+@if (TempData["AlertMessage"] != null)
+{
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function () {
+            alert('@TempData["AlertMessage"]');
+        });
+    </script>
+}
+
+<main id="container">
+    @if (Model.TemJogos && string.IsNullOrWhiteSpace(ViewData["Search"]?.ToString()) && Model.GameCategory == null)
+    {
+        <h1 style="text-align: left;">Destaques e Promoções</h1>
+        <section id="highlightArea">
+            <div id="caroussel">
+                <div id="carousselImg">
+                    <img src="~/uploads/@Model.JogoEscolhido.capa">
+                </div>
+                <div id=carousselInfo>
+                    <div id="carousselName">
+                        <h2>@Model.JogoEscolhido.nome</h2>
+                    </div>
+                    <div id="carousselPrice">
+                        <h3>R$ @Model.JogoEscolhido.valor</h3>
+                        <h2><a asp-page="/jogo/jogo" asp-route-id="@Model.JogoEscolhido.Id"><button class="carousselCardDetails">Ver Detalhes</button></a></h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+    }
+
+    <br>
+    <br>
+
+    <h1>Catálogo</h1>
+    <section id="catalogArea">
+        <div id="catalogLine">
+            @if (Model.TemJogos)
+            {
+                foreach (var game in Model.Jogos)
+                {
+                    <div id="card">
+                        <div id="cardImg">
+                            <img src="~/uploads/@game.capa" alt="">
+                        </div>
+                        <div id="cardInfo">
+                            <h3>@game.nome</h3>
+                            <p>@game.valor.ToString("C")</p>
+                            <a asp-page="/jogo/jogo" asp-route-id="@game.Id"><button class="cardDetails">Ver Detalhes</button></a>
+                            @if (Usuario.Tipo == "admin")
+                            {
+                                <div id="cardButtons">
+                                    <a asp-page="/jogo/deletar" asp-route-id="@game.Id"><button class="adminEditButtons">Deletar</button></a>
+                                    <a asp-page="/jogo/editar" asp-route-id="@game.Id"><button class='adminEditButtons'>Editar</button></a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <h3>Não há jogos cadastrados!</h3>
+            }
+        </div>
+
+    </section>
+</main>
+

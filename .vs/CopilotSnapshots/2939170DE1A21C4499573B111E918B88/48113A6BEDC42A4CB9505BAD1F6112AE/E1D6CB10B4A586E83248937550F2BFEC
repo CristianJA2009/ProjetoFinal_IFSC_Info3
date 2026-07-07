@@ -1,0 +1,4 @@
+﻿@using MeuProjeto
+@using MeuProjeto.Models
+@namespace MeuProjeto.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

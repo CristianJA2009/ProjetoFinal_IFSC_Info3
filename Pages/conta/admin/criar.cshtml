@@ -1,0 +1,27 @@
+﻿@page
+@model MeuProjeto.Pages.conta.admin.criarModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Criar Usuario";
+}
+@inject Services.UsuarioSessao user
+
+<body class='bodyAlt'>
+    <main id="container">
+        <form id="gameForm" class='flex column' method="post" enctype="multipart/form-data">
+            <input type="text" asp-for="RegisterName" placeholder="Nome" id="gameName" />
+            <input type="text" asp-for="RegisterEmail" placeholder="Email" id="gameDescription" />
+            <input type="password" asp-for="Senha" placeholder="Senha" />
+            <input type="number" asp-for="Pontos" placeholder="Pontos" />
+
+            <select asp-for="Tipo">
+                <option value="user" selected>User</option>
+                <option value="admin">Admin</option>
+            </select>
+            <button type="submit" id="gameButton">Enviar</button>
+        </form>
+
+        <span style="color: white;">@ViewData["ErrorMessage"]</span>
+    </div>
+</main>
+</body>

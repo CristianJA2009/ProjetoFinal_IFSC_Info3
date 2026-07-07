@@ -1,0 +1,969 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    transition: all ease 0.3s;
+}
+
+#header {
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 20px;
+    background-color: #08251A;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    border-top: 1px black solid;
+    padding: 20px;
+    background-color: #08251A;
+    color: #F1FFF8;
+    margin-top: 100px;
+    border: none;
+}
+
+body {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #F1FFF8;
+    color: #154333;
+}
+
+.bodyAlt {
+    background-color: #154333;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #154333;
+}
+
+    a:visited {
+        color: #154333;
+    }
+
+#logoArea {
+    width: 450px;
+}
+
+#logo {
+    width: 157px;
+    height: 70px;
+    object-fit: contain;
+}
+
+#searchArea {
+    max-width: 500px;
+    flex: 1;
+}
+
+#searchInput {
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+    outline: none;
+    background-color: #F1FFF8;
+}
+
+    #searchInput:focus {
+        background-color: #fcfcfc;
+    }
+
+#userArea {
+    width: 450px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    #userArea img {
+        width: 40px;
+        height: 40px;
+    }
+
+    #userArea button {
+        border: none;
+        background-color: #08251A;
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+        #userArea button:hover {
+            background-color: #0b3324;
+            cursor: pointer;
+        }
+
+#container {
+    margin-left: 15%;
+    margin-right: 15%;
+    flex: 1;
+}
+
+#caroussel {
+    width: 100%;
+    height: 480px;
+    background-color: #154333;
+    align-content: center;
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    padding: 40px;
+    gap: 20px;
+    box-shadow: 0px 10px 5px 0px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+    #caroussel img {
+        aspect-ratio: 16 / 9;
+        height: 400px;
+        /*width: 712px*/
+        object-fit: cover;
+    }
+
+#carousselImg {
+    text-align: center;
+    height: 400px;
+}
+
+#carousselInfo {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+    font-weight: bolder;
+}
+
+    #carousselInfo:hover {
+        cursor: default;
+    }
+
+#carousselName,
+#carousselPrice {
+    background-color: #F1FFF8;
+    align-content: center;
+}
+
+#catalogArea {
+    margin-top: 100px;
+}
+
+.carousselCardDetails {
+    width: 90%;
+}
+
+#catalogLine {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    gap: 50px;
+}
+
+#card {
+    background-color: #154333;
+    height: fit-content;
+    width: 300px;
+    display: grid;
+    grid-template-rows: 7fr 3fr;
+    padding: 20px;
+    gap: 20px;
+    box-shadow: 0px 10px 5px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#cardInfo {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    background-color: #F1FFF8;
+    border-radius: 15px;
+    place-items: center;
+    height: 100%;
+    padding: 10px;
+    margin-top: -5px;
+}
+
+#cardButtons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+#cardImg img {
+    aspect-ratio: 2 / 3;
+    height: 350px;
+    /*width: 233px*/
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#catalogLine a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.divUser {
+    background-color: #0b3324;
+    padding: 25px;
+    padding-top: 65px;
+    padding-bottom: 75px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 75%;
+    margin: auto;
+}
+
+    .divUser h1 {
+        color: #F1FFF8;
+    }
+
+.divIco, .divIco2 {
+    align-self: center;
+    display: flex;
+    height: 35px;
+    margin: 0 auto;
+    width: 65%;
+}
+
+    .divIco2 svg {
+        background-color: #297358;
+        height: 65px;
+        width: 35px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        padding-left: 5px;
+    }
+
+    .divIco2 p {
+        color: white;
+        font-size: 25px;
+    }
+
+    .divIco svg {
+        background-color: white;
+        height: 35px;
+        width: 25px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        padding-left: 5px;
+    }
+
+.divUser input,
+#submitBtn {
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: 500;
+    background-color: white;
+}
+
+#submitBtn {
+    border-radius: 5px;
+    width: 65%;
+    align-self: center;
+}
+
+.divUser input::placeholder,
+#submitBtn {
+    color: #0b3324;
+    border: none;
+}
+
+
+    #submitBtn:hover {
+        background-color: #F1FFF8;
+    }
+
+button:hover {
+    cursor: pointer;
+    background-color: #F1FFF8;
+}
+
+.subForm {
+    font-size: 15px;
+}
+
+.subBtn {
+    width: fit-content;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 5px;
+    color: #0b3324;
+    font-weight: 500;
+}
+
+.mainTitle {
+    background-color: #0b3324;
+    color: white;
+    width: 35%;
+    margin: auto;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 12px;
+    display: flex;
+    text-align: center;
+}
+
+    .mainTitle svg {
+        width: 35px;
+        height: 30px;
+    }
+
+.altColor {
+    background-color: #F9FDFE;
+}
+
+    .altColor h1 {
+        color: #0b3324;
+    }
+
+.subDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.divAccount {
+    background-color: #F9FDFE;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.divAccount p {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.divUser .img2 {
+    aspect-ratio: 4 / 4;
+    height: 175px;
+    object-fit: cover;
+    border-radius: 150px;
+    box-shadow: 0px 2px 5px gray;
+    padding: 5px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 25px;
+    flex: 1;
+}
+
+.divSide {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.divRow {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: 5px;
+}
+
+    .divRow div {
+        flex: 1;
+    }
+
+th {
+    background-color: #DEF5FB;
+    outline: 2px solid #DEF5FB;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.divUser table {
+    background-color: #F9FDFE;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+th, td {
+    padding: 12px;
+    vertical-align: middle;
+}
+
+.td-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.col-produto {
+    width: 70%;
+    text-align: left; 
+}
+
+.col-valor {
+    width: 30%;
+    font-weight: bold;
+}
+
+.divUser img {
+    aspect-ratio: 16 / 9;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px gray;
+}
+
+.subtitleAlt {
+    font-size: 15px;
+}
+
+.altTitle {
+    background-color: #0b3324;
+    padding: 15px;
+    border-radius: 10px;
+    justify-items: center;
+    width: 100%;
+    display: flex;
+    align-items: center
+}
+
+.divButtons {
+    background-color: #0b3324;
+    width: fit-content;
+    margin: auto;
+    border: 2px solid #0b3324;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+    .divButtons button {
+        width: 100%;
+        background-color: transparent;
+        border: none;
+        color: white;
+    }
+
+        .divButtons button:hover {
+            background-color: #154333;
+        }
+
+    .divButtons svg {
+        padding-top: 3px;
+    }
+
+.spaceAlt {
+    margin-top: 2%;
+}
+
+.divLibrary {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    gap: 50px;
+}
+
+.profileGame {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    border-radius: 0px;
+}
+
+    .profileGame img {
+        aspect-ratio: 2 / 3;
+        height: 200px;
+        object-fit: cover;
+        box-shadow: 0px 2px 5px black;
+        border-radius: 0px;
+    }
+
+    .profileGame p {
+        background-color: #F9FDFE;
+        border-radius: 0px;
+    }
+
+.divGame {
+    width: 100%;
+}
+
+.subDivGame {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.rowDivGame {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 35px;
+}
+
+    .rowDivGame .mainTitle {
+        width: 65%;
+    }
+
+    .rowDivGame img {
+        aspect-ratio: 16 / 9;
+        height: 250px;
+        object-fit: cover;
+        width: 95%;
+        margin: auto;
+        box-shadow: 0px 3px 5px black;
+    }
+
+    .rowDivGame p {
+        background-color: #F9FDFE;
+        padding: 25px;
+        border-radius: 10px;
+        font-weight: 500;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        white-space: normal;
+    }
+
+.gameInfo {
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+.rowDivGameButton {
+    background-color: #F9FDFE;
+    border: none;
+    border-radius: 10px;
+    height: 250%;
+    width: 100%;
+}
+
+    .rowDivGamerowDivGameButton:hover {
+        background-color: #DEF5FB;
+    }
+
+.divWhite {
+    background-color: #F9FDFE;
+    border-radius: 10px;
+}
+
+    .divWhite .top {
+        background-color: #DEF5FB;
+        padding: 10px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .divWhite h1 {
+        color: #2C3F44;
+        font-size: 20px;
+    }
+
+.payment-form {
+    background-color: #18513C;
+    width: 60%;
+    margin: auto;
+    padding: 8px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+}
+
+.divWhite button:hover {
+    background-color: #154333;
+}
+
+.divColumn {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.payment-form p {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.payment-label {
+    background-color: white;
+    color: #08251A;
+    border-radius: 5px;
+}
+
+.payment-form svg {
+    width: -1px;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.order-summary {
+    gap: 15px;
+    width: 80%;
+    margin: auto;
+}
+
+.summary-info {
+    background-color: #18513C;
+    border-radius: 10px;
+    width: 100%;
+    justify-content: center;
+    gap: 15px;
+}
+
+.summary-flex {
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.summary-info p {
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+    width: 260px;
+}
+
+.summary-info button {
+    border: none;
+    font-size: 15px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+    .summary-info button:hover {
+        background-color: #DEF5FB;
+    }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 110%;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    background: #222;
+    border: 1px solid #444;
+    border-radius: 10px;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: .2s ease;
+    z-index: 1000;
+}
+
+    .dropdown-menu.active {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
+    .dropdown-menu a {
+        padding: 12px 16px;
+        color: white;
+        text-decoration: none;
+        transition: background .2s;
+    }
+
+        .dropdown-menu a:hover {
+            background: #333;
+        }
+
+    .dropdown-menu hr {
+        margin: 0;
+        border: none;
+        border-top: 1px solid #444;
+    }
+
+.meu-modal {
+    border: none;
+    border-radius: 10px;
+    padding: 0;
+    width: 90%;
+    background-color: #F9FDFE;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+    /* Força a centralização perfeita na tela */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+
+.modal-conteudo {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.meu-modal::backdrop {
+    background-color: rgba(8, 37, 26, 0.7);
+    backdrop-filter: blur(3px);
+}
+
+.meu-modal[open] {
+    animation: aparecer 0.1s ease normal;
+}
+
+@keyframes aparecer {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.modalBtn {
+    width: fit-content;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    color: #0b3324;
+    font-weight: 500;
+}
+
+.cardDetails, .carousselCardDetails {
+    background-color: #154333;
+    border: none;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.cardDetails:hover, .carousselCardDetails:hover {
+    background-color: #0b3324;
+}
+
+#gameCategory {
+    background-color: #F9FDFE;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.gameCategoryOption {
+    border-radius: 5px;
+}
+
+.adminGameButtons {
+    align-self: center;
+    gap: 15px;
+}
+
+.adminGameButtons button {
+    background-color: #154333;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.adminGameButtons button:hover {
+    background-color: #0b3324;
+}
+
+.adminEditButtons {
+    background-color: #154333;
+    margin-top: 5px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.adminEditButtons:hover {
+    background-color: #0b3324;
+}
+
+#gameForm, #categoriaForm {
+    background-color: #154333;
+    padding: 35px;
+    width: 50%;
+    margin: auto;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+#gameForm input, #categoriaForm input {
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+#gameForm input[type='file'] {
+    background-color: #F9FDFE;
+    padding: 8px;
+}
+
+#gameForm input::file-selector-button {
+    background-color: #154333;
+    border: none;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+#gameForm input::file-selector-button:hover {
+    background-color: #0b3324;
+    cursor: pointer;
+}
+
+#gameForm label {
+    background-color: #F9FDFE;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+#gameForm #gameCategory {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+#gameForm button[type='submit'], #categoriaForm button[type='submit'] {
+    background-color: #F9FDFE;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#gameForm button[type='submit']:hover {
+    background-color: #DEF5FB;
+}
+
+#registerSubmitBtn {
+    background-color: #F9FDFE;
+    width: 65%;
+    margin: auto;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #0b3324;
+}
+
+#registerSubmitBtn:hover {
+    background-color: #DEF5FB;
+}
+
+.adminBtn {
+    background-color: #154333;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.adminBtn:hover {
+    background-color: #0b3324;
+}
+
+.userAdmin h2, .gameAdmin h2, .catAdmin h2{
+    background-color: #154333;
+    color: white;
+    width: 25%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+.userAdmin table, .gameAdmin table, .catAdmin table{
+    border: 2px solid #DEF5FB;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px lightgray;
+}
+
+.userAdmin th, .gameAdmin th, .catAdmin th{
+    border-radius: 0px;
+}
+
+.userAdmin td, .gameAdmin td, .catAdmin td{
+    border-bottom: 1px solid #DEF5FB;
+}
+
+.userAdmin button, .gameAdmin button, .catAdmin button {
+    background-color: #154333;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.userAdmin button:hover, .gameAdmin button:hover, .catAdmin button:hover {
+    background-color: #0b3324;
+}
+
+.userAdmin p {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.gameAdmin button {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.userAdmin, .gameAdmin, .catAdmin {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}

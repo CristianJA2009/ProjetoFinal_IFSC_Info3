@@ -1,0 +1,139 @@
+﻿@page
+@model MeuProjeto.Pages.conta.admin.adminModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Login";
+}
+@inject Services.UsuarioSessao Usuario
+
+@if (Usuario.Tipo != "admin")
+{
+    RedirectToPage("/Index");
+}
+
+<main id="container">
+    <div class="mainTitle">
+        <h1>Painel Admin</h1>
+    </div>
+    <div class="userAdmin">
+        <h2>Usuarios</h2>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Pontos</th>
+                <th>Criado Em</th>
+                <th>Tipo</th>
+                <th>Ações</th>
+            </tr>
+
+            @if (Model.TemUsuario)
+            {
+                @foreach (var user in Model.Usuarios)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.nome</td>
+                        <td>@user.email</td>
+                        <td>@user.pontos</td>
+                        <td>@user.criado_em.ToString("dd/MM/yyyy")</td>
+                        <td>@user.tipo</td>
+                        <td>
+                            <a asp-page="/conta/admin/editarUser" asp-route-id="@user.Id"><button>Editar</button></a>
+                            @if (user.Id.ToString() != Usuario.Id)
+                            {
+                                <a asp-page="/conta/admin/deletarUser" asp-route-id="@user.Id"><button>Deletar</button></a>
+                            } else
+                            {
+                                <p>(Você)</p>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7">Não há usuários cadastrados</td>
+                </tr>
+            }
+            <tr>
+                <td colspan="7"><a asp-page="criar"><button>Criar usuario</button></a></td>
+            </tr>
+        </table>
+    </div>
+
+    <br>
+
+    <div class="gameAdmin">
+        <h2>Jogos</h2>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Descricao</th>
+                <th>Valor</th>
+                <th>Criado Em</th>
+                <th>Ações</th>
+            </tr>
+
+            @if (Model.TemJogo)
+            {
+                @foreach (var game in Model.Jogos)
+                {
+                    <tr>
+                        <td>@game.Id</td>
+                        <td>@game.nome</td>
+                        <td>@(game.descricao.Length > 20 ? game.descricao.Substring(0, 20) + "..." : game.descricao)</td>
+                        <td>@game.valor.ToString("C")</td>
+                        <td>@game.criado_em</td>
+                        <td>
+                            <a href="/conta/admin/editarJogo?id=@game.Id"><button>Editar</button></a>
+                            <a asp-page="/conta/admin/deletarJogo" asp-route-id="@game.Id"><button>Deletar</button></a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7">Não há jogos cadastrados</td>
+                </tr>
+            }
+        </table>
+    </div>
+
+    <br>
+
+    <div class="catAdmin">
+        <h2>Categorias</h2>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Ações</th>
+            </tr>
+
+            @if (Model.TemCategoria)
+            {
+                @foreach (var cat in Model.Categorias)
+                {
+                    <tr>
+                        <td>@cat.Id</td>
+                        <td>@cat.nome</td>
+                        <td>
+                            <a asp-page="/conta/admin/deletarCat" asp-route-id="@cat.Id"><button>Deletar</button></a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7">Não há jogos cadastrados</td>
+                </tr>
+            }
+        </table>
+    </div>
+</main>

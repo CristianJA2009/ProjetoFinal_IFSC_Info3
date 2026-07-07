@@ -1,0 +1,14 @@
+﻿@page
+@model MeuProjeto.Pages.jogo.addCategoriaModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Adicionar Categoria";
+}
+
+<main id="container">
+    <form id="categoriaForm" class='flex column' method="post">
+        <input type="text" asp-for="CatName" placeholder="Categoria" id="catName" />
+        <button type="submit">Enviar</button>
+        <span>@ViewData["ErrorMessage"]</span>
+    </form>
+</main>

@@ -1,0 +1,135 @@
+﻿using MeuProjeto.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace MeuProjeto.Pages.jogo
+{
+    public class addGameModel : PageModel
+    {
+        //Construtor do context
+        private readonly LegendsStoreContext _context;
+
+        public addGameModel(LegendsStoreContext context)
+        {
+            _context = context;
+        }
+
+        //propriedades que recebem os valores do input
+        [BindProperty]
+        public string GameName { get; set; }
+
+        [BindProperty]
+        public string GameDescription { get; set; }
+
+        [BindProperty]
+        public float GameValue { get; set; }
+
+        [BindProperty]
+        public IFormFile GameImg { get; set; }
+
+        [BindProperty]
+        public IFormFile GameBanner { get; set; }
+
+        [BindProperty]
+        public int GameCategory { get; set; }
+
+        //função para verificar se há campos vazios
+        public bool EmptyForm()
+        {
+            return string.IsNullOrEmpty(GameName) ||
+                   string.IsNullOrEmpty(GameDescription) ||
+                   string.IsNullOrEmpty(Convert.ToString(GameValue)) ||
+                   (GameImg == null || GameImg.Length == 0)||
+                   (GameBanner == null || GameBanner.Length == 0);
+        }
+
+        //cria um objeto de lista das categorias
+        public List<Categoria> Categorias { get; set; }
+
+        //o objeto recebe as categorias
+        public void OnGet()
+        {
+            Categorias = _context.Categorias.ToList();
+        }
+
+        public async Task<IActionResult> OnPostAsync()
+        {
+            Categorias = _context.Categorias.ToList();
+
+            // 1. Validação de campos vazios
+            if (EmptyForm())
+            {
+                ViewData["ErrorMessage"] = "Preencha todos os campos.";
+                return Page();
+            }
+
+            // 2. Validação de float
+            else if (float.IsNaN(GameValue))
+            {
+                ViewData["ErrorMessage"] = "O valor deve ser um número";
+                return Page();
+            }
+            else
+            {
+                ViewData["ErrorMessage"] = null;
+
+                //Salvamento das imagens
+                string ImgName = Path.GetFileName(GameImg.FileName);//Pega o nome do arquivo
+                string extensionImg = Path.GetExtension(ImgName); //Pega a extensão do arquivo
+                string GameImgPath = $"{Guid.NewGuid():N}{extensionImg}"; //Gera um nome único para o arquivo
+
+                string pasta = Path.Combine(
+                               Directory.GetCurrentDirectory(), //Pega o caminho do diretorio atual e adiciona o /wwwroot/uploads/
+                               "wwwroot",
+                               "uploads");
+
+                string caminhoImg = Path.Combine(pasta, GameImgPath); //junta o caminho da pasta com o nome da imagem
+
+                using (var stream = new FileStream(caminhoImg, FileMode.Create)) //faz o upload da imagem no caminho destinado
+                {
+                    await GameImg.CopyToAsync(stream);
+                }
+
+
+                string BannerName = Path.GetFileName(GameBanner.FileName);
+                string extensionBanner = Path.GetExtension(BannerName);
+                string GameBannerPath = $"{Guid.NewGuid():N}{extensionBanner}";
+
+                string caminhoBanner = Path.Combine(pasta, GameBannerPath);
+
+                using (var stream = new FileStream(caminhoBanner, FileMode.Create))
+                {
+                    await GameBanner.CopyToAsync(stream);
+                }
+
+                try //tenta adicionar o jogo no banco
+                {
+
+                    var jogo = new Jogo
+                    {
+                        nome = GameName,
+                        descricao = GameDescription,
+                        valor = GameValue,
+                        capa = GameImgPath,
+                        banner = GameBannerPath,
+                        criado_em = DateTime.Today,
+                        categoriaId = GameCategory,
+                        key = Guid.NewGuid().ToString()
+                    };
+
+                    _context.Jogos.Add(jogo);
+                    await _context.SaveChangesAsync();
+
+                    return RedirectToPage("/Index");
+                }
+                catch (Exception) //senão ele retorna um erro e recarrega a pagina
+                {
+
+                    ViewData["ErrorMessage"] = "Ocorreu um erro ao registrar o jogo";
+                    return Page();
+                }
+            }
+        }
+    }
+}
